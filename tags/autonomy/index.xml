@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autonomy on alexchiri.com</title>
+    <link>/tags/autonomy/</link>
+    <description>Recent content in autonomy on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2017 17:37:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/autonomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomy at work</title>
+      <link>/2017/03/19/autonomy-at-work/</link>
+      <pubDate>Sun, 19 Mar 2017 17:37:58 +0000</pubDate>
+      
+      <guid>/2017/03/19/autonomy-at-work/</guid>
+      <description>Full disclosure: I haven’t read Daniel Pink’s Drive yet, but that doesn’t mean I can’t talk about autonomy, one of the 3 elements of true motivation he writes about in his book.
+If you ask any employer in the world right now, I hardly believe anyone will tell you (s)he wants to micro-manage people. So what does it mean to not micro-manage people? It means giving them the autonomy they need to do their job in the best way they consider doing it.</description>
+    </item>
+    
+  </channel>
+</rss>

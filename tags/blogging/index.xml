@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogging on alexchiri.com</title>
+    <link>/tags/blogging/</link>
+    <description>Recent content in blogging on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jan 2015 16:28:31 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I&#39;m joining the YourTurnChallenge</title>
+      <link>/2015/01/17/im-joining-the-yourturnchallenge/</link>
+      <pubDate>Sat, 17 Jan 2015 16:28:31 +0000</pubDate>
+      
+      <guid>/2015/01/17/im-joining-the-yourturnchallenge/</guid>
+      <description>Maybe you heard, maybe you didn&amp;rsquo;t, but there&amp;rsquo;s a new challenge in town!
+It&amp;rsquo;s called Your Turn Challenge and it&amp;rsquo;s initiated by Winnie, the Special Projects Lead for Seth Godin. Now, it doesn&amp;rsquo;t really matter who drives it, I&amp;rsquo;ve been wanting for some time to increase the number of my blog posts and get them coming in a more regular fashion.
+The challenge consists in blogging every day of next week.</description>
+    </item>
+    
+    <item>
+      <title>Gone static!</title>
+      <link>/2012/12/29/gone-static/</link>
+      <pubDate>Sat, 29 Dec 2012 07:17:00 +0000</pubDate>
+      
+      <guid>/2012/12/29/gone-static/</guid>
+      <description>Having a small blog where you can ramble about whatever you want should be a simple thing, right? I mean you don&amp;rsquo;t pay much to the host, they have installation scripts for any platform you like, you just buy a domain (if you want) and you start writing! Well, that&amp;rsquo;s only in theory, at least for me.
+It all started a few months ago with my domain alexchiri.ro just disappearing from the records of my host at that time, icebluehost.</description>
+    </item>
+    
+  </channel>
+</rss>

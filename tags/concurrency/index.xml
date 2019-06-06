@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concurrency on alexchiri.com</title>
+    <link>/tags/concurrency/</link>
+    <description>Recent content in concurrency on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jan 2013 05:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bank robbers and Java concurrency</title>
+      <link>/2013/01/14/bank-robbers-and-java-concurrency/</link>
+      <pubDate>Mon, 14 Jan 2013 05:00:00 +0000</pubDate>
+      
+      <guid>/2013/01/14/bank-robbers-and-java-concurrency/</guid>
+      <description>Java 7 puts on the table some new tools for concurrency and its family of Executors. Here&amp;rsquo;s my attempt of exemplifying their usage with a small bank robbers analogy.
+Here&amp;rsquo;s the thing: let&amp;rsquo;s say you are a team of bank robbers and you want to pull up a heist on a bank. A team means multiple members and each can carry so much bags of money. Let&amp;rsquo;s put in code a Heist, a Bank with not enough security and using the new ForkJoinPool, let&amp;rsquo;s parallelize and distribute the tasks between robbers.</description>
+    </item>
+    
+  </channel>
+</rss>

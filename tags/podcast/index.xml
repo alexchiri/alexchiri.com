@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on alexchiri.com</title>
+    <link>/tags/podcast/</link>
+    <description>Recent content in podcast on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2016 16:38:09 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>drunkenpmradio - Having Empathy For Your Project - w/ Patrice Colancecco Embry [podcast]</title>
+      <link>/2016/11/06/drunkenpmradio-having-empathy-for-your-project-w-patrice-colancecco-embry-podcast/</link>
+      <pubDate>Sun, 06 Nov 2016 16:38:09 +0000</pubDate>
+      
+      <guid>/2016/11/06/drunkenpmradio-having-empathy-for-your-project-w-patrice-colancecco-embry-podcast/</guid>
+      <description>Link: https://alexchiri.com/post/drunkenpmradio-having-empathy-for-your-project-w-patrice-colancecco-embry-podcast
+My notes: Treat a project with empathy.
+As a PM talk about good things with &amp;lsquo;we&amp;rsquo; and about negative with &amp;lsquo;I&amp;rsquo;.
+As a PM you have to be positive about the project and believe that will succeed.
+Do not talk bad about the project until the end. Allow yourself in the post-mortem to hate the project a little bit.
+You should be positive and shove the negative at the end without looking like you fake it or you are not genuine.</description>
+    </item>
+    
+    <item>
+      <title>My reading routine</title>
+      <link>/2016/11/05/my-reading-routine/</link>
+      <pubDate>Sat, 05 Nov 2016 14:46:09 +0000</pubDate>
+      
+      <guid>/2016/11/05/my-reading-routine/</guid>
+      <description>Fiction or non-fiction? I’m always on the lookout for new things, so I’m constantly reading and learning stuff. I noticed that I cannot read always non-fiction, because it is usually harder to digest, so I only do that in the morning (usually in the subway ride to work) when my mind is fresh.
+At the same time, if I only read non-fiction, I feel like I am always thinking about the things I am reading and my mind doesn’t get to disconnect.</description>
+    </item>
+    
+    <item>
+      <title>AFH 043: The Agile Mindset with Gil Broza</title>
+      <link>/2016/09/13/afh-043-the-agile-mindset-with-gil-broza/</link>
+      <pubDate>Tue, 13 Sep 2016 16:31:48 +0000</pubDate>
+      
+      <guid>/2016/09/13/afh-043-the-agile-mindset-with-gil-broza/</guid>
+      <description>Link: http://ryanripley.com/afh-043-the-agile-mindset-with-gil-broza-podcast/
+As my memory doesn&amp;rsquo;t seem to help me a lot with all this content around, I decided to start to create notes for podcasts as well. A little bit behind with my book notes and my podcast listening, but I&amp;rsquo;m starting to catch up.
+Notes
+Too many agile implementations are not greatly exciting and not yielding great results
+Most important for cultivating an agile mindset
+ * Start with basic awareness of what it is - what do we mean when we say agile * Why do we want these things - agile is not just for better/cheaper/faster, but to delight the customers  A lot of people think that agile is the new standardised process and it is not a process nor standardised</description>
+    </item>
+    
+    <item>
+      <title>Scrum Guide Refresh July 2016</title>
+      <link>/2016/07/29/scrum-guide-refresh-july-2016/</link>
+      <pubDate>Fri, 29 Jul 2016 11:34:58 +0000</pubDate>
+      
+      <guid>/2016/07/29/scrum-guide-refresh-july-2016/</guid>
+      <description>On 6th of July, a refreshed version of the Scrum Guide was released in a live webinar by Ken Schwaber and Jeff Sutherland.
+The refresh basically consists in adding the Scrum values into the guide, the values as they were featured in the last chapter of the first book on Scrum (Agile Software Development with Scrum). Ken and Jeff identified these values while working at Patient Keeper and consider them to be very important to a successful Scrum adoption in companies.</description>
+    </item>
+    
+    <item>
+      <title>AFH 042: The Grows Method for Adopting Agile Software Develpoment</title>
+      <link>/2016/07/16/afh-042-the-grows-method-for-adopting-agile-software-develpoment-podcast/</link>
+      <pubDate>Sat, 16 Jul 2016 15:36:54 +0000</pubDate>
+      
+      <guid>/2016/07/16/afh-042-the-grows-method-for-adopting-agile-software-develpoment-podcast/</guid>
+      <description>Link: http://ryanripley.com/afh-042-the-grows-method-for-adopting-agile-software-development-podcast/
+As I&amp;rsquo;ve heard someone recently say, the amount of new Agile methods or methodologies is competing with the number of new JavaScript frameworks that pop up every now and then. When it comes to new Agile methods, they all usually have certain things in common (the Agile principles) but they come with a twist.
+When it comes to Grows, as far as I understood from the podcast, the twist comes from the short feedback loops, involvement of executive roles, the tech best practices and the gradual development of the method in 5 stages (modelled after the Dreyfus Model of Skill Acquisition).</description>
+    </item>
+    
+    <item>
+      <title>DevOps Cafe Episode 62 - Mary and Tom Poppendieck</title>
+      <link>/2016/04/11/devops-cafe-episode-62-mary-and-tom-poppendieck/</link>
+      <pubDate>Mon, 11 Apr 2016 17:32:16 +0000</pubDate>
+      
+      <guid>/2016/04/11/devops-cafe-episode-62-mary-and-tom-poppendieck/</guid>
+      <description>Listened recently to this episode from Devops Cafe Podcast which is loaded with useful information and references. Besides the ones found in the page of the episode, I extracted the ones below:
+ * [Lean Product and Process Development](http://www.amazon.com/Lean-Product-Process-Development-Allen/dp/1934109134) * [Product Development Performance](http://www.amazon.com/Product-Development-Performance-Organization-Management/dp/0875842453) * [Implementing Lean Software Development: From Concept to Cash](http://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381) * [Value stream mapping](https://en.wikipedia.org/wiki/Value_stream_mapping) * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) * [Personal Kanban](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266) * [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358) * [Two Pizza Team](http://www.wsj.com/news/articles/SB10001424052970203914304576627102996831200) * [Adrian Cockroft](https://twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

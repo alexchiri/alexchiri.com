@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fixing-stuff on alexchiri.com</title>
+    <link>/tags/fixing-stuff/</link>
+    <description>Recent content in fixing-stuff on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Nov 2014 17:49:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fixing-stuff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Logitech Anywhere MX switch fixes, like an amateur</title>
+      <link>/2014/11/04/logitech-anywhere-mx-switch-fixes-like-an-amateur/</link>
+      <pubDate>Tue, 04 Nov 2014 17:49:42 +0000</pubDate>
+      
+      <guid>/2014/11/04/logitech-anywhere-mx-switch-fixes-like-an-amateur/</guid>
+      <description>If you own one of these beauties, then get ready for some switches trouble. Don&amp;rsquo;t get me wrong, I &amp;lt;3 this mouse, I have two (one for work, one for home), but seriously Logitech, couldn&amp;rsquo;t you put better switches in it, so they don&amp;rsquo;t die after less than a year of hard use? :-/
+There are plenty of tutorials and videos about the issues with these switches and Google is your best pal there, so I won&amp;rsquo;t get into details.</description>
+    </item>
+    
+  </channel>
+</rss>

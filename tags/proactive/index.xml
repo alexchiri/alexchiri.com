@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proactive on alexchiri.com</title>
+    <link>/tags/proactive/</link>
+    <description>Recent content in proactive on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2015 08:41:12 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/proactive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proactive or Reactive</title>
+      <link>/2015/01/03/proactive-or-reactive/</link>
+      <pubDate>Sat, 03 Jan 2015 08:41:12 +0000</pubDate>
+      
+      <guid>/2015/01/03/proactive-or-reactive/</guid>
+      <description>Just a few things I read this a couple of days ago about reactive/proactive:
+&amp;ldquo;Our behaviour is a function of our decisions, not our conditions&amp;rdquo;. If we choose to blame others for our conditions, we become reactive. &amp;ldquo;Proactive people are driven by values - carefully thought about, selected and internationalised values&amp;rdquo; while &amp;ldquo;Reactive people are driven by feelings, by circumstances, by conditions, by their environment&amp;rdquo;.
+Reactive language:
+ * There&#39;s nothing I can do.</description>
+    </item>
+    
+  </channel>
+</rss>

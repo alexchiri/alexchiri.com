@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruby on alexchiri.com</title>
+    <link>/tags/ruby/</link>
+    <description>Recent content in ruby on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Aug 2014 18:33:15 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>More on the Rackspace Cloud Files action for Dropzone 3 and extras</title>
+      <link>/2014/08/26/more-on-the-rackspace-cloud-files-action-for-dropzone-3-and-extras/</link>
+      <pubDate>Tue, 26 Aug 2014 18:33:15 +0000</pubDate>
+      
+      <guid>/2014/08/26/more-on-the-rackspace-cloud-files-action-for-dropzone-3-and-extras/</guid>
+      <description>Not so long ago, I released my first Dropzone 3 action and of course, I wrote about it on my blog!
+After two weeks (back to the present) and some Ruby tutorials later, I improved the action and also added some more features to it.
+Features, features, fea… One feature request I got on Twitter was to add support for custom domains (or CNAME records) for the remote containers:</description>
+    </item>
+    
+    <item>
+      <title>Rackspace Cloud Files action for Dropzone 3</title>
+      <link>/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</link>
+      <pubDate>Tue, 12 Aug 2014 15:33:28 +0000</pubDate>
+      
+      <guid>/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</guid>
+      <description>Dropzone is a Mac OS X app which sits in the menu bar and that allows you to configure a series of actions. You can add these actions in a grid that is shown whenever you drag something on top of the icon in the menu bar. Then you can drop files on these actions and upload the files to Dropbox, Flickr, Amazon S3 and others or just keep them until you need them later.</description>
+    </item>
+    
+  </channel>
+</rss>

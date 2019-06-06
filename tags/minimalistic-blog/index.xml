@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>minimalistic-blog on alexchiri.com</title>
+    <link>/tags/minimalistic-blog/</link>
+    <description>Recent content in minimalistic-blog on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2016 16:59:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/minimalistic-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I added RSS</title>
+      <link>/2016/04/18/i-added-rss/</link>
+      <pubDate>Mon, 18 Apr 2016 16:59:47 +0000</pubDate>
+      
+      <guid>/2016/04/18/i-added-rss/</guid>
+      <description>Not much to say about this. Felt like implementing something in 1-2 hours and this seemed like a good candidate. So here it goes, I now have RSS feed, I only need readers and will to write.</description>
+    </item>
+    
+    <item>
+      <title>Look ma, I built my own tiny blog in ReactJS!</title>
+      <link>/2016/02/01/look-ma-i-built-my-own-tiny-blog-in-reactjs/</link>
+      <pubDate>Mon, 01 Feb 2016 17:01:04 +0000</pubDate>
+      
+      <guid>/2016/02/01/look-ma-i-built-my-own-tiny-blog-in-reactjs/</guid>
+      <description>When I started working almost daily with ReactJS a few months ago, I was pretty challenged (still am) with all the different modules to use and the concepts that I wasn&amp;rsquo;t used with in the Java world. So I thought of a fun side-project with ReactJS to learn more and try some of the &amp;ldquo;crazy&amp;rdquo; things I couldn&amp;rsquo;t really use at work at that point. Because I wanted to be able to do some link-blogging as well and Ghost (or any of the themes I liked) didn&amp;rsquo;t facilitate it I decided to go wild and build my own blog in ReactJS.</description>
+    </item>
+    
+  </channel>
+</rss>

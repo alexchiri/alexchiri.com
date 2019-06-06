@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hot on alexchiri.com</title>
+    <link>/tags/hot/</link>
+    <description>Recent content in hot on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2015 16:24:52 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hot in NL</title>
+      <link>/2015/08/03/hot-in-nl/</link>
+      <pubDate>Mon, 03 Aug 2015 16:24:52 +0000</pubDate>
+      
+      <guid>/2015/08/03/hot-in-nl/</guid>
+      <description>One of the things I noticed since I&amp;rsquo;ve been living in The Netherlands is that when the weather is hot, most drivers are going crazy. Aggressive over takes, speeding, poor checks on turns, not even talking about signalling! It&amp;rsquo;s like a drivers gone mad convention.
+But despite this behaviour there aren&amp;rsquo;t many accidents or at least not many serious accidents[1] in The Netherlands yearly. Maybe also because there aren&amp;rsquo;t too many hot days in the Dutch summer.</description>
+    </item>
+    
+  </channel>
+</rss>
