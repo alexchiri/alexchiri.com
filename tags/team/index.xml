@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>team on alexchiri.com</title>
+    <link>/tags/team/</link>
+    <description>Recent content in team on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2017 04:21:41 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teams are made of people - snapshot</title>
+      <link>/2017/06/22/teams-are-made-of-people-summary/</link>
+      <pubDate>Thu, 22 Jun 2017 04:21:41 +0000</pubDate>
+      
+      <guid>/2017/06/22/teams-are-made-of-people-summary/</guid>
+      <description>To easily remember the main ideas of my previous post, Teams are made of people, I thought of a representative word and a short alternative description for each of them:
+ Vision. The team has a vision of what it tries to accomplish. It should to be clear what is the team’s purpose accompanied by a “grand vision” that everyone understands and resonates with. Individuality. The team is aware of and respects the individual differences.</description>
+    </item>
+    
+    <item>
+      <title>val team = geek&#43;&#43;</title>
+      <link>/2012/11/17/val-team-geek/</link>
+      <pubDate>Sat, 17 Nov 2012 09:32:00 +0000</pubDate>
+      
+      <guid>/2012/11/17/val-team-geek/</guid>
+      <description>Let&amp;rsquo;s face it: a typical geek is not known for his social skills, best manners or his exquisite taste in clothes. Of course, most of the geeks are not typical either, but again most of them would prefer to be buried in bad code than holding a presentation or buy clothes for a fancy party with a dress code.
+Team Geek. A Software Developer&amp;rsquo;s Guide to Working Well with Others|Brian W.</description>
+    </item>
+    
+  </channel>
+</rss>

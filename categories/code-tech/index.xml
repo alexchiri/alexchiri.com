@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code &amp; Tech on alexchiri.com</title>
+    <link>/categories/code-tech/</link>
+    <description>Recent content in Code &amp; Tech on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2017 14:37:58 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/code-tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firefighting in software development</title>
+      <link>/2017/08/06/firefighting-in-software-development/</link>
+      <pubDate>Sun, 06 Aug 2017 14:37:58 +0000</pubDate>
+      
+      <guid>/2017/08/06/firefighting-in-software-development/</guid>
+      <description>The main duty of a developer is to build and improve features of a service or a product, either through big-bang releases or through continuous delivery. The second most time consuming activity (besides meetings, of course) in the life of a developer is fixing bugs and eliminating tech debt.
+Bugs and tech debt have the nasty habit of generating urgent issues that prevent a service to function properly. When these happen, developers need to take immediate actions to bring back the service in a state of normality, as much as possible, as fast as possible.</description>
+    </item>
+    
+    <item>
+      <title>Software down!!!</title>
+      <link>/2017/08/06/software-down/</link>
+      <pubDate>Sun, 06 Aug 2017 14:35:15 +0000</pubDate>
+      
+      <guid>/2017/08/06/software-down/</guid>
+      <description>As a developer, my first impulse when the service I’m developing is malfunctioning is to jump right on it and try to fix it. But while I do that, I can’t help thinking about who is affected by it and how bad and if they will notice it. Then there’s the first five to ten minutes of the investigation, when I realise how far I am from finding a solution, yet, I keep thinking “Almost there, almost there!</description>
+    </item>
+    
+    <item>
+      <title>Rackspace Cloud Files action for Dropzone 3</title>
+      <link>/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</link>
+      <pubDate>Tue, 12 Aug 2014 15:33:28 +0000</pubDate>
+      
+      <guid>/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</guid>
+      <description>Dropzone is a Mac OS X app which sits in the menu bar and that allows you to configure a series of actions. You can add these actions in a grid that is shown whenever you drag something on top of the icon in the menu bar. Then you can drop files on these actions and upload the files to Dropbox, Flickr, Amazon S3 and others or just keep them until you need them later.</description>
+    </item>
+    
+    <item>
+      <title>Joy of Coding 2014</title>
+      <link>/2014/03/07/joy-of-coding-2014/</link>
+      <pubDate>Fri, 07 Mar 2014 17:00:00 +0000</pubDate>
+      
+      <guid>/2014/03/07/joy-of-coding-2014/</guid>
+      <description>Yesterday I spent the entire day at the Joy of Coding conference, in Rotterdam. From my point of view, it was an example of how a coding conference should happen. Lots of sponsors, but nobody trying to get your personal data in exchange for a t-shirt or the promise of winning some sort of gadget. Focus was put on what matters: code, networking and sharing.
+I have attended all the talks, here&amp;rsquo;s a small part of what I took away from each of them:</description>
+    </item>
+    
+  </channel>
+</rss>

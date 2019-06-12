@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>client on alexchiri.com</title>
+    <link>/tags/client/</link>
+    <description>Recent content in client on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2016 08:28:25 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/client/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The client and the customer</title>
+      <link>/2016/01/24/the-client-and-the-customer/</link>
+      <pubDate>Sun, 24 Jan 2016 08:28:25 +0000</pubDate>
+      
+      <guid>/2016/01/24/the-client-and-the-customer/</guid>
+      <description>Seth Godin explains the difference between a client and a customer
+&amp;lt;code&amp;gt;The customer buys (or doesn&#39;t buy) what you make. The client asks you to make something. The customer has the power to choose, but the client has the power to define, insist and spec. &amp;lt;/code&amp;gt;  It&amp;rsquo;s an important distinction to make. I&amp;rsquo;ve heard these terms being used pretty often with simply the meaning of the person/company that pays for a service or a product.</description>
+    </item>
+    
+  </channel>
+</rss>

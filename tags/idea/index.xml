@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>idea on alexchiri.com</title>
+    <link>/tags/idea/</link>
+    <description>Recent content in idea on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jan 2015 17:37:17 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I have an idea</title>
+      <link>/2015/01/23/i-have-an-idea/</link>
+      <pubDate>Fri, 23 Jan 2015 17:37:17 +0000</pubDate>
+      
+      <guid>/2015/01/23/i-have-an-idea/</guid>
+      <description>I have an idea about a revolutionary recipe website. Yeah, you read it right, a recipe website. Being a software engineer, you would think that it should be easy for me to build it and launch it, basically it&amp;rsquo;s something I do every day for my employer. But as you might have found out, shipping is not that simple.
+Stuck in preparation I had this idea for several years now and I started to make it happen, I think, about 4 or 5 times.</description>
+    </item>
+    
+  </channel>
+</rss>

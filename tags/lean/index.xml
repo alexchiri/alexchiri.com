@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lean on alexchiri.com</title>
+    <link>/tags/lean/</link>
+    <description>Recent content in lean on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 16:53:35 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lean Agile Scotland - Day 3 - 6 Oct 2017</title>
+      <link>/2017/10/15/lean-agile-scotland-day-3-6-oct-2017/</link>
+      <pubDate>Sun, 15 Oct 2017 16:53:35 +0000</pubDate>
+      
+      <guid>/2017/10/15/lean-agile-scotland-day-3-6-oct-2017/</guid>
+      <description>The third day of LAScot was a little bit shorter for me, because I chose to come back to Stockholm on the same day. That gave me just enough time to see the keynote and @JoakimSunden’s talk about the “Spotify Model”.
+Keynote: Awesome Superproblems by Luke Hohmann (@ LukeHohmann) Luke’s keynote was very inspiring. He demonstrated how our experience in building products and services can be used in other domains and parts of life.</description>
+    </item>
+    
+    <item>
+      <title>Lean Agile Scotland - Day 2 - 5 Oct 2017</title>
+      <link>/2017/10/12/lean-agile-scotland-day-2-5-oct-2017/</link>
+      <pubDate>Thu, 12 Oct 2017 17:52:56 +0000</pubDate>
+      
+      <guid>/2017/10/12/lean-agile-scotland-day-2-5-oct-2017/</guid>
+      <description>One of the tricky parts of LAScot was getting hold of the tokens for tracks 3 to 5, which were not filmed and required a token to get access. Or you could “risk” it and drop by anyway, maybe someone changes his/her mind or there is some room left. In all the workshops I’ve been at, there were always extra people accommodated into the room.
+These being said, on the first day I completely forgot about the tokens, although I was pretty early in the conference centre.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Cafe Episode 62 - Mary and Tom Poppendieck</title>
+      <link>/2016/04/11/devops-cafe-episode-62-mary-and-tom-poppendieck/</link>
+      <pubDate>Mon, 11 Apr 2016 17:32:16 +0000</pubDate>
+      
+      <guid>/2016/04/11/devops-cafe-episode-62-mary-and-tom-poppendieck/</guid>
+      <description>Listened recently to this episode from Devops Cafe Podcast which is loaded with useful information and references. Besides the ones found in the page of the episode, I extracted the ones below:
+ * [Lean Product and Process Development](http://www.amazon.com/Lean-Product-Process-Development-Allen/dp/1934109134) * [Product Development Performance](http://www.amazon.com/Product-Development-Performance-Organization-Management/dp/0875842453) * [Implementing Lean Software Development: From Concept to Cash](http://www.amazon.com/Implementing-Lean-Software-Development-Concept/dp/0321437381) * [Value stream mapping](https://en.wikipedia.org/wiki/Value_stream_mapping) * [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) * [Personal Kanban](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266) * [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358) * [Two Pizza Team](http://www.wsj.com/news/articles/SB10001424052970203914304576627102996831200) * [Adrian Cockroft](https://twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

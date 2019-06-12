@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geek on alexchiri.com</title>
+    <link>/tags/geek/</link>
+    <description>Recent content in geek on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Nov 2012 09:32:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/geek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>val team = geek&#43;&#43;</title>
+      <link>/2012/11/17/val-team-geek/</link>
+      <pubDate>Sat, 17 Nov 2012 09:32:00 +0000</pubDate>
+      
+      <guid>/2012/11/17/val-team-geek/</guid>
+      <description>Let&amp;rsquo;s face it: a typical geek is not known for his social skills, best manners or his exquisite taste in clothes. Of course, most of the geeks are not typical either, but again most of them would prefer to be buried in bad code than holding a presentation or buy clothes for a fancy party with a dress code.
+Team Geek. A Software Developer&amp;rsquo;s Guide to Working Well with Others|Brian W.</description>
+    </item>
+    
+  </channel>
+</rss>
