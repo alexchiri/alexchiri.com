@@ -6,10 +6,20 @@
     <description>Recent content in Personal development on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2019 20:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 20:26:26 +0000</lastBuildDate>
     
 	<atom:link href="/categories/personal-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Highlights and storing knowledge</title>
+      <link>/2019/07/04/highlights-and-storing-knowledge/</link>
+      <pubDate>Thu, 04 Jul 2019 20:26:26 +0000</pubDate>
+      
+      <guid>/2019/07/04/highlights-and-storing-knowledge/</guid>
+      <description>Some months ago I was writing about a routine I setup to manage and refresh highlights from books and articles. In the meantime, I have adjusted it a little bit, removed some services and added some others. Let&amp;rsquo;s start with the bits that didn&amp;rsquo;t work that well.
+Highlights from articles As much as I liked the flow with sending articles weekly from Pocket to Kindle using a service named aptly Pocket2Kindle, I soon became swamped with articles pending on my Kindle.</description>
+    </item>
     
     <item>
       <title>Resurface highlights from books and articles you&#39;ve read in the past</title>

@@ -4,19 +4,66 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/2019/07/04/highlights-and-storing-knowledge/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/personal-development/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diigo/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kindle/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reading/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/readwise/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/thebrain/</loc>
+    <lastmod>2019-07-04T20:26:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,37 +73,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/kindle/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/pocket/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/reading/</loc>
-    <lastmod>2019-03-04T20:26:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/readwise/</loc>
     <lastmod>2019-03-04T20:26:26+00:00</lastmod>
     <priority>0</priority>
   </url>

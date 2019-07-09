@@ -6,10 +6,20 @@
     <description>Recent content on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2019 20:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2019 20:26:26 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Highlights and storing knowledge</title>
+      <link>/2019/07/04/highlights-and-storing-knowledge/</link>
+      <pubDate>Thu, 04 Jul 2019 20:26:26 +0000</pubDate>
+      
+      <guid>/2019/07/04/highlights-and-storing-knowledge/</guid>
+      <description>Some months ago I was writing about a routine I setup to manage and refresh highlights from books and articles. In the meantime, I have adjusted it a little bit, removed some services and added some others. Let&amp;rsquo;s start with the bits that didn&amp;rsquo;t work that well.
+Highlights from articles As much as I liked the flow with sending articles weekly from Pocket to Kindle using a service named aptly Pocket2Kindle, I soon became swamped with articles pending on my Kindle.</description>
+    </item>
     
     <item>
       <title>Resurface highlights from books and articles you&#39;ve read in the past</title>
@@ -27,7 +37,7 @@
       
       <guid>/now/</guid>
       <description>What am I thinking or doing now:
- Engineering Manager at Klarna A.B. Enthusiastic member of the Farnam Street Learning Community Learning about systems thinking and how to apply them every day. Learning about Research Methods and Statistics on udemy.com. I&amp;rsquo;ve been reading many studies lately and I want to be able to get a better understanding of the statistical results. Reading, formulating ideas and writing about my topics of interest.</description>
+ Engineering Manager at Klarna A.B. Enthusiastic member of the Farnam Street Learning Community Learning about systems thinking and how to apply them every day. Learning about Probabilities and Statistics on edx. I&amp;rsquo;ve been reading many studies lately and I want to be able to get a better understanding of the statistical results. Reading, formulating ideas and writing about my topics of interest. Running, because if feels good and weather is nice outside.</description>
     </item>
     
     <item>
