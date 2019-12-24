@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>micro-manage on alexchiri.com</title>
-    <link>/tags/micro-manage/</link>
+    <link>https://alexchiri.com/tags/micro-manage/</link>
     <description>Recent content in micro-manage on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 20 Feb 2017 15:55:43 +0000</lastBuildDate>
     
-	<atom:link href="/tags/micro-manage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/micro-manage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Do you micro-manage much?</title>
-      <link>/2017/02/20/do-you-micro-manage-much/</link>
+      <link>https://alexchiri.com/2017/02/20/do-you-micro-manage-much/</link>
       <pubDate>Mon, 20 Feb 2017 15:55:43 +0000</pubDate>
       
-      <guid>/2017/02/20/do-you-micro-manage-much/</guid>
+      <guid>https://alexchiri.com/2017/02/20/do-you-micro-manage-much/</guid>
       <description>I don’t know about you, but in my experience until now, there were situations where I felt micro-managed. And I hated it. Badly. It frustrated me. I didn’t understand why I was treated like that and I didn’t like the implications it had on the perceived quality of my work.
 Doesn’t my boss think I’m capable? If you’re someone who cares about their work, having a boss who micro-manages you is not a good sign.</description>
     </item>

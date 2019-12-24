@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>purpose on alexchiri.com</title>
-    <link>/tags/purpose/</link>
+    <link>https://alexchiri.com/tags/purpose/</link>
     <description>Recent content in purpose on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sat, 20 Feb 2016 10:58:25 +0000</lastBuildDate>
     
-	<atom:link href="/tags/purpose/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/purpose/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Don’t create a sense of urgency, foster a sense of purpose.</title>
-      <link>/2016/02/20/dont-create-a-sense-of-urgency-foster-a-sense-of-purpose/</link>
+      <link>https://alexchiri.com/2016/02/20/dont-create-a-sense-of-urgency-foster-a-sense-of-purpose/</link>
       <pubDate>Sat, 20 Feb 2016 10:58:25 +0000</pubDate>
       
-      <guid>/2016/02/20/dont-create-a-sense-of-urgency-foster-a-sense-of-purpose/</guid>
+      <guid>https://alexchiri.com/2016/02/20/dont-create-a-sense-of-urgency-foster-a-sense-of-purpose/</guid>
       <description>Kimber Lockhart on a sense of purpose:
-A sense of purpose is immersion in our cause, and allowing that exposure to motivate action. A sense of purpose is about going faster and smarter toward a mission we all see clearly. It’s about using good judgment because we all understand the short and long term implications of our actions on what we’re creating together. A strong sense of purpose manifests when a software engineer watches a potential customer struggle with a workflow and stays late to make the changes that make it easier.</description>
+A strong sense of purpose manifests when a software engineer watches a potential customer struggle with a workflow and stays late to make the changes that make it easier. It shows itself when a designer spends their weekend on a few extra iterations because they felt engaged with the problem at hand and want to produce a better solution.
+Turns out when you stop looking to create urgency, the passion and purpose latent in your team might just cause the right things to get done at just the right pace.</description>
     </item>
     
   </channel>

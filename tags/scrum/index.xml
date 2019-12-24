@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scrum on alexchiri.com</title>
-    <link>/tags/scrum/</link>
+    <link>https://alexchiri.com/tags/scrum/</link>
     <description>Recent content in scrum on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Fri, 29 Jul 2016 11:34:58 +0000</lastBuildDate>
     
-	<atom:link href="/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scrum Guide Refresh July 2016</title>
-      <link>/2016/07/29/scrum-guide-refresh-july-2016/</link>
+      <link>https://alexchiri.com/2016/07/29/scrum-guide-refresh-july-2016/</link>
       <pubDate>Fri, 29 Jul 2016 11:34:58 +0000</pubDate>
       
-      <guid>/2016/07/29/scrum-guide-refresh-july-2016/</guid>
+      <guid>https://alexchiri.com/2016/07/29/scrum-guide-refresh-july-2016/</guid>
       <description>On 6th of July, a refreshed version of the Scrum Guide was released in a live webinar by Ken Schwaber and Jeff Sutherland.
 The refresh basically consists in adding the Scrum values into the guide, the values as they were featured in the last chapter of the first book on Scrum (Agile Software Development with Scrum). Ken and Jeff identified these values while working at Patient Keeper and consider them to be very important to a successful Scrum adoption in companies.</description>
     </item>

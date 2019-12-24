@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>social-media on alexchiri.com</title>
-    <link>/tags/social-media/</link>
+    <link>https://alexchiri.com/tags/social-media/</link>
     <description>Recent content in social-media on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 22 Mar 2015 12:25:02 +0000</lastBuildDate>
     
-	<atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Future of (my) social media</title>
-      <link>/2015/03/22/future-of-my-social-media/</link>
+      <link>https://alexchiri.com/2015/03/22/future-of-my-social-media/</link>
       <pubDate>Sun, 22 Mar 2015 12:25:02 +0000</pubDate>
       
-      <guid>/2015/03/22/future-of-my-social-media/</guid>
-      <description>After sharing The Four Horsemen video (predictions about Google, Amazon, Facebook, Apple) on LinkedIn, I was asked by one of my connections if I would be willing to join him in preparing a blog that wants to predict the future of social media. Although I think it&amp;rsquo;s a great idea (him who holds the power of information is always ahead), I declined, simply because I&amp;rsquo;m no social media expert and more important, not an analyst.</description>
+      <guid>https://alexchiri.com/2015/03/22/future-of-my-social-media/</guid>
+      <description>After sharing The Four Horsemen video (predictions about Google, Amazon, Facebook, Apple) on LinkedIn, I was asked by one of my connections if I would be willing to join him in preparing a blog that wants to predict the future of social media. Although I think it&#39;s a great idea (him who holds the power of information is always ahead), I declined, simply because I&#39;m no social media expert and more important, not an analyst.</description>
     </item>
     
   </channel>

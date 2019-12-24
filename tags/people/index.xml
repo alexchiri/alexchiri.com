@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>people on alexchiri.com</title>
-    <link>/tags/people/</link>
+    <link>https://alexchiri.com/tags/people/</link>
     <description>Recent content in people on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 07 May 2017 16:40:09 +0000</lastBuildDate>
     
-	<atom:link href="/tags/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agile is also about people</title>
-      <link>/2017/05/07/agile-is-also-about-people/</link>
+      <link>https://alexchiri.com/2017/05/07/agile-is-also-about-people/</link>
       <pubDate>Sun, 07 May 2017 16:40:09 +0000</pubDate>
       
-      <guid>/2017/05/07/agile-is-also-about-people/</guid>
+      <guid>https://alexchiri.com/2017/05/07/agile-is-also-about-people/</guid>
       <description>This has been probably said millions of times until now, but maybe it wouldn’t hurt to say it once more: agile is also about people.
-The promise of agile is that, if applied “_properly_”, it will “accelerate development cycles, reveal code defects earlier, decrease overall project risk, and allow faster response to customer needs and changing business priorities” to quote one of the Google results.
+The promise of agile is that, if applied “properly”, it will “accelerate development cycles, reveal code defects earlier, decrease overall project risk, and allow faster response to customer needs and changing business priorities” to quote one of the Google results.
 And I don’t think anyone is really doubting that.</description>
     </item>
     

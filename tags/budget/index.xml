@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>budget on alexchiri.com</title>
-    <link>/tags/budget/</link>
+    <link>https://alexchiri.com/tags/budget/</link>
     <description>Recent content in budget on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 17 Apr 2016 09:06:01 +0000</lastBuildDate>
     
-	<atom:link href="/tags/budget/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/budget/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Project Management Triangle must die!</title>
-      <link>/2016/04/17/the-project-management-triangle-must-die/</link>
+      <link>https://alexchiri.com/2016/04/17/the-project-management-triangle-must-die/</link>
       <pubDate>Sun, 17 Apr 2016 09:06:01 +0000</pubDate>
       
-      <guid>/2016/04/17/the-project-management-triangle-must-die/</guid>
+      <guid>https://alexchiri.com/2016/04/17/the-project-management-triangle-must-die/</guid>
       <description>John Ferguson Smart and Jan Molak in an article I stumbled upon today:
 &amp;lt;code&amp;gt;&amp;quot;On time, in scope and in budget&amp;quot;. This is the refrain of countless project managers on their LinkedIn profiles: it is the badge of the successful project manager, and they wear it with pride. It is also a misguided and dangerous idea that invariably encourages a short-sighted and bureaucratic mind-set, detrimental to both project teams and the organisations they serve.</description>
     </item>

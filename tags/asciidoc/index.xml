@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>asciidoc on alexchiri.com</title>
-    <link>/tags/asciidoc/</link>
+    <link>https://alexchiri.com/tags/asciidoc/</link>
     <description>Recent content in asciidoc on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 23 Feb 2014 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/asciidoc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/asciidoc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AsciiDoc writing</title>
-      <link>/2014/02/23/asciidoc-writing/</link>
+      <link>https://alexchiri.com/2014/02/23/asciidoc-writing/</link>
       <pubDate>Sun, 23 Feb 2014 17:00:00 +0000</pubDate>
       
-      <guid>/2014/02/23/asciidoc-writing/</guid>
-      <description>Context, context, it&amp;rsquo;s all about context I started a little while ago to write a book. Yeah, I know, who would have thought, right? But that&amp;rsquo;s besides the point.
+      <guid>https://alexchiri.com/2014/02/23/asciidoc-writing/</guid>
+      <description>Context, context, it&#39;s all about context I started a little while ago to write a book. Yeah, I know, who would have thought, right? But that&#39;s besides the point.
 Initially I used a writer specific app for Mac called Ulysses and while the app is really great, it has two disadvantages:
  * it is available only for Mac (and maybe in the future for iOS) * not geeky enough (I know this is a stretch for a second reason, but hey!</description>
     </item>

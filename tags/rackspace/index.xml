@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rackspace on alexchiri.com</title>
-    <link>/tags/rackspace/</link>
+    <link>https://alexchiri.com/tags/rackspace/</link>
     <description>Recent content in rackspace on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 12 Aug 2014 15:33:28 +0000</lastBuildDate>
     
-	<atom:link href="/tags/rackspace/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/rackspace/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rackspace Cloud Files action for Dropzone 3</title>
-      <link>/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</link>
+      <link>https://alexchiri.com/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</link>
       <pubDate>Tue, 12 Aug 2014 15:33:28 +0000</pubDate>
       
-      <guid>/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</guid>
+      <guid>https://alexchiri.com/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</guid>
       <description>Dropzone is a Mac OS X app which sits in the menu bar and that allows you to configure a series of actions. You can add these actions in a grid that is shown whenever you drag something on top of the icon in the menu bar. Then you can drop files on these actions and upload the files to Dropbox, Flickr, Amazon S3 and others or just keep them until you need them later.</description>
     </item>
     

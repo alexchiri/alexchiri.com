@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>story on alexchiri.com</title>
-    <link>/tags/story/</link>
+    <link>https://alexchiri.com/tags/story/</link>
     <description>Recent content in story on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 19 Jun 2016 14:41:36 +0000</lastBuildDate>
     
-	<atom:link href="/tags/story/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Here it comes!</title>
-      <link>/2016/06/19/here-it-comes/</link>
+      <link>https://alexchiri.com/2016/06/19/here-it-comes/</link>
       <pubDate>Sun, 19 Jun 2016 14:41:36 +0000</pubDate>
       
-      <guid>/2016/06/19/here-it-comes/</guid>
-      <description>The quiet Before it arrives, everything is pretty calm. There&amp;rsquo;s the occasional walker and the soothing sound of the fountain, but not much else. Everything else is synchronised with its arrival. The majestic metal runner that brings people to their destination.
-You wouldn&amp;rsquo;t expect anything grandiose to happen, judging by how everything looks like. Some beggars at the entrance of the supermarket, one or two shoppers jumping from one deal to another, a couple of bored taxis standing by in the station and a homeless drinking his life from cheap beer cans.</description>
+      <guid>https://alexchiri.com/2016/06/19/here-it-comes/</guid>
+      <description>The quiet Before it arrives, everything is pretty calm. There&#39;s the occasional walker and the soothing sound of the fountain, but not much else. Everything else is synchronised with its arrival. The majestic metal runner that brings people to their destination.
+You wouldn&#39;t expect anything grandiose to happen, judging by how everything looks like. Some beggars at the entrance of the supermarket, one or two shoppers jumping from one deal to another, a couple of bored taxis standing by in the station and a homeless drinking his life from cheap beer cans.</description>
     </item>
     
   </channel>

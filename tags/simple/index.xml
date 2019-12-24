@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>simple on alexchiri.com</title>
-    <link>/tags/simple/</link>
+    <link>https://alexchiri.com/tags/simple/</link>
     <description>Recent content in simple on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 20 Jan 2015 18:25:20 +0000</lastBuildDate>
     
-	<atom:link href="/tags/simple/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/simple/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why should things be simple, when they can be complicated?</title>
-      <link>/2015/01/20/why-should-things-be-simple-when-they-can-be-complicated/</link>
+      <link>https://alexchiri.com/2015/01/20/why-should-things-be-simple-when-they-can-be-complicated/</link>
       <pubDate>Tue, 20 Jan 2015 18:25:20 +0000</pubDate>
       
-      <guid>/2015/01/20/why-should-things-be-simple-when-they-can-be-complicated/</guid>
+      <guid>https://alexchiri.com/2015/01/20/why-should-things-be-simple-when-they-can-be-complicated/</guid>
       <description>Or… should it be the other way around?
 I’m always amazed about the amount of effort some people put in things that don’t need to be complicated. There is a general misconception that thorough and good work is recognised by the size of the deliverable. Therefore, insecure people will have the tendency to produce more and more complicated results, in an effort to compensate, to seem what they’re not.
 Of course, we are often raised and educated that more is better, especially in communist educational systems.</description>

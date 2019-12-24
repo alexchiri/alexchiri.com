@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>joy-of-coding on alexchiri.com</title>
-    <link>/tags/joy-of-coding/</link>
+    <link>https://alexchiri.com/tags/joy-of-coding/</link>
     <description>Recent content in joy-of-coding on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Fri, 07 Mar 2014 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/joy-of-coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/joy-of-coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Joy of Coding 2014</title>
-      <link>/2014/03/07/joy-of-coding-2014/</link>
+      <link>https://alexchiri.com/2014/03/07/joy-of-coding-2014/</link>
       <pubDate>Fri, 07 Mar 2014 17:00:00 +0000</pubDate>
       
-      <guid>/2014/03/07/joy-of-coding-2014/</guid>
+      <guid>https://alexchiri.com/2014/03/07/joy-of-coding-2014/</guid>
       <description>Yesterday I spent the entire day at the Joy of Coding conference, in Rotterdam. From my point of view, it was an example of how a coding conference should happen. Lots of sponsors, but nobody trying to get your personal data in exchange for a t-shirt or the promise of winning some sort of gadget. Focus was put on what matters: code, networking and sharing.
-I have attended all the talks, here&amp;rsquo;s a small part of what I took away from each of them:</description>
+I have attended all the talks, here&#39;s a small part of what I took away from each of them:</description>
     </item>
     
   </channel>

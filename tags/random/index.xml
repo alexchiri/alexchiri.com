@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random on alexchiri.com</title>
-    <link>/tags/random/</link>
+    <link>https://alexchiri.com/tags/random/</link>
     <description>Recent content in random on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 27 Aug 2013 18:28:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/random/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Problem solving and the random factor</title>
-      <link>/2013/08/27/problem-solving-and-the-random-factor/</link>
+      <link>https://alexchiri.com/2013/08/27/problem-solving-and-the-random-factor/</link>
       <pubDate>Tue, 27 Aug 2013 18:28:00 +0000</pubDate>
       
-      <guid>/2013/08/27/problem-solving-and-the-random-factor/</guid>
-      <description>Introduction A colleague of mine asked for my help, after spending hours on trying to figure out why he is getting the wrong results with his code. I went to his desk and in 5 minutes, problem was solved! You would be tempted to say, &amp;ldquo;Whoaaa, man, you&amp;rsquo;re very good! Solving that dude&amp;rsquo;s problem in a few minutes after he spent hours working it!&amp;rdquo;.
-Well, actually I didn&amp;rsquo;t do anything.</description>
+      <guid>https://alexchiri.com/2013/08/27/problem-solving-and-the-random-factor/</guid>
+      <description>Introduction A colleague of mine asked for my help, after spending hours on trying to figure out why he is getting the wrong results with his code. I went to his desk and in 5 minutes, problem was solved! You would be tempted to say, &amp;ldquo;Whoaaa, man, you&#39;re very good! Solving that dude&#39;s problem in a few minutes after he spent hours working it!&amp;quot;.
+Well, actually I didn&#39;t do anything. My colleague fixed his problem on his own.</description>
     </item>
     
   </channel>

@@ -1,130 +1,129 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on alexchiri.com</title>
-    <link>/categories/</link>
+    <link>https://alexchiri.com/categories/</link>
     <description>Recent content in Categories on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2019 10:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Books</title>
-      <link>/categories/books/</link>
+      <link>https://alexchiri.com/categories/books/</link>
       <pubDate>Sun, 20 Oct 2019 10:00:00 +0000</pubDate>
       
-      <guid>/categories/books/</guid>
+      <guid>https://alexchiri.com/categories/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consulting</title>
-      <link>/categories/consulting/</link>
+      <link>https://alexchiri.com/categories/consulting/</link>
       <pubDate>Sun, 20 Oct 2019 10:00:00 +0000</pubDate>
       
-      <guid>/categories/consulting/</guid>
+      <guid>https://alexchiri.com/categories/consulting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leadership</title>
-      <link>/categories/leadership/</link>
+      <link>https://alexchiri.com/categories/leadership/</link>
       <pubDate>Sun, 20 Oct 2019 10:00:00 +0000</pubDate>
       
-      <guid>/categories/leadership/</guid>
+      <guid>https://alexchiri.com/categories/leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal development</title>
-      <link>/categories/personal-development/</link>
+      <link>https://alexchiri.com/categories/personal-development/</link>
       <pubDate>Thu, 04 Jul 2019 20:26:26 +0000</pubDate>
       
-      <guid>/categories/personal-development/</guid>
+      <guid>https://alexchiri.com/categories/personal-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/categories/about-me/</link>
+      <link>https://alexchiri.com/categories/about-me/</link>
       <pubDate>Sun, 16 Dec 2018 14:21:04 +0000</pubDate>
       
-      <guid>/categories/about-me/</guid>
+      <guid>https://alexchiri.com/categories/about-me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Vision</title>
-      <link>/categories/the-vision/</link>
+      <link>https://alexchiri.com/categories/the-vision/</link>
       <pubDate>Sun, 16 Dec 2018 14:21:04 +0000</pubDate>
       
-      <guid>/categories/the-vision/</guid>
+      <guid>https://alexchiri.com/categories/the-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meetups</title>
-      <link>/categories/meetups/</link>
+      <link>https://alexchiri.com/categories/meetups/</link>
       <pubDate>Tue, 17 Oct 2017 19:55:38 +0000</pubDate>
       
-      <guid>/categories/meetups/</guid>
+      <guid>https://alexchiri.com/categories/meetups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agile</title>
-      <link>/categories/agile/</link>
+      <link>https://alexchiri.com/categories/agile/</link>
       <pubDate>Sun, 15 Oct 2017 16:53:35 +0000</pubDate>
       
-      <guid>/categories/agile/</guid>
+      <guid>https://alexchiri.com/categories/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quick thoughts</title>
-      <link>/categories/quick-thoughts/</link>
+      <link>https://alexchiri.com/categories/quick-thoughts/</link>
       <pubDate>Sun, 15 Oct 2017 09:49:01 +0000</pubDate>
       
-      <guid>/categories/quick-thoughts/</guid>
+      <guid>https://alexchiri.com/categories/quick-thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code &amp; Tech</title>
-      <link>/categories/code-tech/</link>
+      <link>https://alexchiri.com/categories/code-tech/</link>
       <pubDate>Sun, 06 Aug 2017 14:37:58 +0000</pubDate>
       
-      <guid>/categories/code-tech/</guid>
+      <guid>https://alexchiri.com/categories/code-tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing</title>
-      <link>/categories/writing/</link>
+      <link>https://alexchiri.com/categories/writing/</link>
       <pubDate>Sun, 19 Jun 2016 14:41:36 +0000</pubDate>
       
-      <guid>/categories/writing/</guid>
+      <guid>https://alexchiri.com/categories/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code &amp;amp; Tech</title>
-      <link>/categories/code-amp-tech/</link>
+      <link>https://alexchiri.com/categories/code-amp-tech/</link>
       <pubDate>Mon, 18 Apr 2016 16:59:47 +0000</pubDate>
       
-      <guid>/categories/code-amp-tech/</guid>
+      <guid>https://alexchiri.com/categories/code-amp-tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Food</title>
-      <link>/categories/food/</link>
+      <link>https://alexchiri.com/categories/food/</link>
       <pubDate>Wed, 05 Aug 2015 17:49:04 +0000</pubDate>
       
-      <guid>/categories/food/</guid>
+      <guid>https://alexchiri.com/categories/food/</guid>
       <description></description>
     </item>
     

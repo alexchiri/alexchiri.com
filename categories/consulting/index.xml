@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consulting on alexchiri.com</title>
-    <link>/categories/consulting/</link>
+    <link>https://alexchiri.com/categories/consulting/</link>
     <description>Recent content in Consulting on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2019 10:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The challenge of helping others</title>
-      <link>/2019/10/20/the-challenge-of-helping-others/</link>
+      <link>https://alexchiri.com/2019/10/20/the-challenge-of-helping-others/</link>
       <pubDate>Sun, 20 Oct 2019 10:00:00 +0000</pubDate>
       
-      <guid>/2019/10/20/the-challenge-of-helping-others/</guid>
-      <description>A book I&amp;rsquo;ve been reading lately revealed to me how tricky helping relationships can be, even though we put ourselves in such relationships several times every day and we don&amp;rsquo;t even realise it. There are many things we do automatically successfully and we don&amp;rsquo;t even think about it. Because we have been trained for many years by society and parents how to do it correctly according to the common rules. Helping others is no exception: we have been taught to help people around us that are in need and be receptive to others&amp;rsquo; pain and distress.</description>
+      <guid>https://alexchiri.com/2019/10/20/the-challenge-of-helping-others/</guid>
+      <description>A book I&#39;ve been reading lately revealed to me how tricky helping relationships can be, even though we put ourselves in such relationships several times every day and we don&#39;t even realise it. There are many things we do automatically successfully and we don&#39;t even think about it. Because we have been trained for many years by society and parents how to do it correctly according to the common rules. Helping others is no exception: we have been taught to help people around us that are in need and be receptive to others&amp;rsquo; pain and distress.</description>
     </item>
     
   </channel>

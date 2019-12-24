@@ -1,56 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>java on alexchiri.com</title>
-    <link>/tags/java/</link>
+    <link>https://alexchiri.com/tags/java/</link>
     <description>Recent content in java on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2013 05:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Time traveling with the Java Calendar</title>
-      <link>/2013/09/08/time-traveling-with-the-java-calendar/</link>
+      <link>https://alexchiri.com/2013/09/08/time-traveling-with-the-java-calendar/</link>
       <pubDate>Sun, 08 Sep 2013 05:00:00 +0000</pubDate>
       
-      <guid>/2013/09/08/time-traveling-with-the-java-calendar/</guid>
-      <description>Playing with time in Java can be a tricky thing. Here&amp;rsquo;s what happens when you use the Calendar class to make a trip back in time and back again:
+      <guid>https://alexchiri.com/2013/09/08/time-traveling-with-the-java-calendar/</guid>
+      <description>Playing with time in Java can be a tricky thing. Here&#39;s what happens when you use the Calendar class to make a trip back in time and back again:
 UPDATE: I have tested this code only with the default GregorianCalendar. You should be aware that, depending on your Locale you might get a different Calendar implementation. Although they should behave the same, consider yourself warned! :)
 Check the following code:</description>
     </item>
     
     <item>
       <title>Type erasure and some Java bytecode</title>
-      <link>/2013/01/28/type-erasure-and-some-java-bytecode/</link>
+      <link>https://alexchiri.com/2013/01/28/type-erasure-and-some-java-bytecode/</link>
       <pubDate>Mon, 28 Jan 2013 05:00:00 +0000</pubDate>
       
-      <guid>/2013/01/28/type-erasure-and-some-java-bytecode/</guid>
-      <description>If you&amp;rsquo;ve worked with Java for a while, I&amp;rsquo;m sure you&amp;rsquo;ve heard about one of the things that Java does at compile time: type erasure. But you don&amp;rsquo;t have to trust everybody by their word, you can check it by yourself!
+      <guid>https://alexchiri.com/2013/01/28/type-erasure-and-some-java-bytecode/</guid>
+      <description>If you&#39;ve worked with Java for a while, I&#39;m sure you&#39;ve heard about one of the things that Java does at compile time: type erasure. But you don&#39;t have to trust everybody by their word, you can check it by yourself!
 As you know, when you &amp;ldquo;compile&amp;rdquo; your class, the .java file is transformed into a .class file, which is a binary file containing JVM operation codes (each operation is represented by a byte = bytecode).</description>
     </item>
     
     <item>
       <title>Bank robbers and Java concurrency</title>
-      <link>/2013/01/14/bank-robbers-and-java-concurrency/</link>
+      <link>https://alexchiri.com/2013/01/14/bank-robbers-and-java-concurrency/</link>
       <pubDate>Mon, 14 Jan 2013 05:00:00 +0000</pubDate>
       
-      <guid>/2013/01/14/bank-robbers-and-java-concurrency/</guid>
-      <description>Java 7 puts on the table some new tools for concurrency and its family of Executors. Here&amp;rsquo;s my attempt of exemplifying their usage with a small bank robbers analogy.
-Here&amp;rsquo;s the thing: let&amp;rsquo;s say you are a team of bank robbers and you want to pull up a heist on a bank. A team means multiple members and each can carry so much bags of money. Let&amp;rsquo;s put in code a Heist, a Bank with not enough security and using the new ForkJoinPool, let&amp;rsquo;s parallelize and distribute the tasks between robbers.</description>
+      <guid>https://alexchiri.com/2013/01/14/bank-robbers-and-java-concurrency/</guid>
+      <description>Java 7 puts on the table some new tools for concurrency and its family of Executors. Here&#39;s my attempt of exemplifying their usage with a small bank robbers analogy.
+Here&#39;s the thing: let&#39;s say you are a team of bank robbers and you want to pull up a heist on a bank. A team means multiple members and each can carry so much bags of money. Let&#39;s put in code a Heist, a Bank with not enough security and using the new ForkJoinPool, let&#39;s parallelize and distribute the tasks between robbers.</description>
     </item>
     
     <item>
       <title>Farming and Dependency Injection in Java</title>
-      <link>/2012/12/30/farming-and-dependency-injection-in-java/</link>
+      <link>https://alexchiri.com/2012/12/30/farming-and-dependency-injection-in-java/</link>
       <pubDate>Sun, 30 Dec 2012 09:00:00 +0000</pubDate>
       
-      <guid>/2012/12/30/farming-and-dependency-injection-in-java/</guid>
-      <description>It&amp;rsquo;s always good to revisit topics that you already touched before, the chance is that you will find out new things or remember forgotten ones.
+      <guid>https://alexchiri.com/2012/12/30/farming-and-dependency-injection-in-java/</guid>
+      <description>It&#39;s always good to revisit topics that you already touched before, the chance is that you will find out new things or remember forgotten ones.
 So while I go over The Well-Grounded Java Developer, I intend posting here my own examples on different topics and techniques covered there.
-Dependency Injection Today, the theme is going to be Dependency Injection. You probably know that there&amp;rsquo;s a specification for this, namely JSR-330 and you surely know what Dependency Injection is (let&amp;rsquo;s call it DI from now on).</description>
+Dependency Injection Today, the theme is going to be Dependency Injection. You probably know that there&#39;s a specification for this, namely JSR-330 and you surely know what Dependency Injection is (let&#39;s call it DI from now on).</description>
     </item>
     
   </channel>

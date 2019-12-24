@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>standing on alexchiri.com</title>
-    <link>/tags/standing/</link>
+    <link>https://alexchiri.com/tags/standing/</link>
     <description>Recent content in standing on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 02 Jan 2014 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/standing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/standing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Standing up</title>
-      <link>/2014/01/02/standing-up/</link>
+      <link>https://alexchiri.com/2014/01/02/standing-up/</link>
       <pubDate>Thu, 02 Jan 2014 17:00:00 +0000</pubDate>
       
-      <guid>/2014/01/02/standing-up/</guid>
-      <description>Some time ago I started using an improvised standing desk at home. I&amp;rsquo;m sure some of you at least heard about the article about the 22$ standing desk made using an IKEA coffee table.
-I&amp;rsquo;m a classical couch potato most of the time and I&amp;rsquo;m not a big fan of many sports, definitely not a fan of gyms or running, especially in a gym. I&amp;rsquo;m also convinced that just by exchanging a sitting position with a standing position you accomplish almost nothing, exchanged an evil with maybe a smaller evil.</description>
+      <guid>https://alexchiri.com/2014/01/02/standing-up/</guid>
+      <description>Some time ago I started using an improvised standing desk at home. I&#39;m sure some of you at least heard about the article about the 22$ standing desk made using an IKEA coffee table.
+I&#39;m a classical couch potato most of the time and I&#39;m not a big fan of many sports, definitely not a fan of gyms or running, especially in a gym. I&#39;m also convinced that just by exchanging a sitting position with a standing position you accomplish almost nothing, exchanged an evil with maybe a smaller evil.</description>
     </item>
     
   </channel>

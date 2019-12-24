@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>frustration on alexchiri.com</title>
-    <link>/tags/frustration/</link>
+    <link>https://alexchiri.com/tags/frustration/</link>
     <description>Recent content in frustration on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 22 Jan 2015 17:46:14 +0000</lastBuildDate>
     
-	<atom:link href="/tags/frustration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/frustration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Frustration</title>
-      <link>/2015/01/22/frustration/</link>
+      <link>https://alexchiri.com/2015/01/22/frustration/</link>
       <pubDate>Thu, 22 Jan 2015 17:46:14 +0000</pubDate>
       
-      <guid>/2015/01/22/frustration/</guid>
-      <description>Have you ever felt like you&amp;rsquo;ve been shoved into a corner and there&amp;rsquo;s no way out? Well, there&amp;rsquo;s always a way out, but maybe none that you would prefer taking? You could walk away at any time, but then you would loose all the work and effort you put into it. And then the rage fills you, because you feel helpless, handicapped. You don&amp;rsquo;t like giving up, so you keep going, trying and trying and trying, maybe you will finally succeed.</description>
+      <guid>https://alexchiri.com/2015/01/22/frustration/</guid>
+      <description>Have you ever felt like you&#39;ve been shoved into a corner and there&#39;s no way out? Well, there&#39;s always a way out, but maybe none that you would prefer taking? You could walk away at any time, but then you would loose all the work and effort you put into it. And then the rage fills you, because you feel helpless, handicapped. You don&#39;t like giving up, so you keep going, trying and trying and trying, maybe you will finally succeed.</description>
     </item>
     
   </channel>

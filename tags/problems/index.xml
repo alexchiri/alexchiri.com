@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>problems on alexchiri.com</title>
-    <link>/tags/problems/</link>
+    <link>https://alexchiri.com/tags/problems/</link>
     <description>Recent content in problems on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 02 Dec 2018 19:14:30 +0000</lastBuildDate>
     
-	<atom:link href="/tags/problems/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/problems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Accept gravity and let go of your anchors</title>
-      <link>/2018/12/02/accept-gravity-and-let-go-of-your-anchors/</link>
+      <link>https://alexchiri.com/2018/12/02/accept-gravity-and-let-go-of-your-anchors/</link>
       <pubDate>Sun, 02 Dec 2018 19:14:30 +0000</pubDate>
       
-      <guid>/2018/12/02/accept-gravity-and-let-go-of-your-anchors/</guid>
+      <guid>https://alexchiri.com/2018/12/02/accept-gravity-and-let-go-of-your-anchors/</guid>
       <description>There are a couple of concepts I learned about recently, while reading “Designing your life” by Bill Burnett and Dave Evans. These are not part of the main idea of the book, but I found them as powerful as they are simple.
 Gravity problems via GIPHY
 A gravity problem is a problem that is not actionable. If you see gravity as a problem and you decide to fight it, to “solve” it, you will realise sooner or later that it is unsolvable and you would be far off better with accepting it as a reality and find ways to work around it.</description>

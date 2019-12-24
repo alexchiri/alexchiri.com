@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conference on alexchiri.com</title>
-    <link>/tags/conference/</link>
+    <link>https://alexchiri.com/tags/conference/</link>
     <description>Recent content in conference on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 09 Oct 2017 19:32:16 +0000</lastBuildDate>
     
-	<atom:link href="/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lean Agile Scotland - Day 1 - 4 Oct 2017</title>
-      <link>/2017/10/09/lean-agile-scotland-day-1-4-oct-2017/</link>
+      <link>https://alexchiri.com/2017/10/09/lean-agile-scotland-day-1-4-oct-2017/</link>
       <pubDate>Mon, 09 Oct 2017 19:32:16 +0000</pubDate>
       
-      <guid>/2017/10/09/lean-agile-scotland-day-1-4-oct-2017/</guid>
+      <guid>https://alexchiri.com/2017/10/09/lean-agile-scotland-day-1-4-oct-2017/</guid>
       <description>This year was the first time I attended LAScot and I had high expectations from it. I wasn’t disappointed even just one bit!
 I enjoyed the relaxed and friendly atmosphere. There is no right and there is no wrong, no superior or inferior, there’s just sharing, learning and lots of fruitful conversations. It’s the perfect environment for nurturing old friendships and growing new ones on the ground of common interests and a passion for the diverse fields that constitute and contribute to the knowledge work most of us are doing.</description>
     </item>

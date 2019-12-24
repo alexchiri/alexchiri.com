@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dependency-injection on alexchiri.com</title>
-    <link>/tags/dependency-injection/</link>
+    <link>https://alexchiri.com/tags/dependency-injection/</link>
     <description>Recent content in dependency-injection on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 30 Dec 2012 09:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/dependency-injection/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/dependency-injection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Farming and Dependency Injection in Java</title>
-      <link>/2012/12/30/farming-and-dependency-injection-in-java/</link>
+      <link>https://alexchiri.com/2012/12/30/farming-and-dependency-injection-in-java/</link>
       <pubDate>Sun, 30 Dec 2012 09:00:00 +0000</pubDate>
       
-      <guid>/2012/12/30/farming-and-dependency-injection-in-java/</guid>
-      <description>It&amp;rsquo;s always good to revisit topics that you already touched before, the chance is that you will find out new things or remember forgotten ones.
+      <guid>https://alexchiri.com/2012/12/30/farming-and-dependency-injection-in-java/</guid>
+      <description>It&#39;s always good to revisit topics that you already touched before, the chance is that you will find out new things or remember forgotten ones.
 So while I go over The Well-Grounded Java Developer, I intend posting here my own examples on different topics and techniques covered there.
-Dependency Injection Today, the theme is going to be Dependency Injection. You probably know that there&amp;rsquo;s a specification for this, namely JSR-330 and you surely know what Dependency Injection is (let&amp;rsquo;s call it DI from now on).</description>
+Dependency Injection Today, the theme is going to be Dependency Injection. You probably know that there&#39;s a specification for this, namely JSR-330 and you surely know what Dependency Injection is (let&#39;s call it DI from now on).</description>
     </item>
     
   </channel>

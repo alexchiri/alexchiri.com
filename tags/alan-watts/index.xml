@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alan-watts on alexchiri.com</title>
-    <link>/tags/alan-watts/</link>
+    <link>https://alexchiri.com/tags/alan-watts/</link>
     <description>Recent content in alan-watts on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Fri, 08 Feb 2013 05:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/alan-watts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/alan-watts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life is a dance</title>
-      <link>/2013/02/08/life-is-a-dance/</link>
+      <link>https://alexchiri.com/2013/02/08/life-is-a-dance/</link>
       <pubDate>Fri, 08 Feb 2013 05:00:00 +0000</pubDate>
       
-      <guid>/2013/02/08/life-is-a-dance/</guid>
-      <description>I have discovered Alan Watts a few days ago and since then I have been going through the Youtube videos with his lectures. I like his way of putting things into words, it&amp;rsquo;s a pleasure to listen and to think about his ideas. Here&amp;rsquo;s one of my favorites that could be resumed to one simple idea: carpe diem!
+      <guid>https://alexchiri.com/2013/02/08/life-is-a-dance/</guid>
+      <description>I have discovered Alan Watts a few days ago and since then I have been going through the Youtube videos with his lectures. I like his way of putting things into words, it&#39;s a pleasure to listen and to think about his ideas. Here&#39;s one of my favorites that could be resumed to one simple idea: carpe diem!
 [embed]https://www.youtube.com/embed/29atSZKbmS4[/embed]
-I have tried to make a transcript of this video, couldn&amp;rsquo;t grasp a couple of words, sorry for that!</description>
+I have tried to make a transcript of this video, couldn&#39;t grasp a couple of words, sorry for that!</description>
     </item>
     
   </channel>

@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on alexchiri.com</title>
-    <link>/tags/blog/</link>
+    <link>https://alexchiri.com/tags/blog/</link>
     <description>Recent content in blog on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2013 13:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mobile publishing with Octopress and RaspberryPi</title>
-      <link>/2013/10/20/mobile-publishing-with-octopress-and-raspberrypi/</link>
+      <link>https://alexchiri.com/2013/10/20/mobile-publishing-with-octopress-and-raspberrypi/</link>
       <pubDate>Sun, 20 Oct 2013 13:00:00 +0000</pubDate>
       
-      <guid>/2013/10/20/mobile-publishing-with-octopress-and-raspberrypi/</guid>
+      <guid>https://alexchiri.com/2013/10/20/mobile-publishing-with-octopress-and-raspberrypi/</guid>
       <description>Preamble A few weeks ago scriptogr.am decided to suddenly change how their Markdown processor worked, making any HTML embedded in the Markdown posts worthless, among other things. So I woke up that my 2-readers-blog was looking like s**t, with content not being displayed[1], all because of the changes scriptogr.am did without any warning before.
 These actions triggered some tweets to be sent, although I was already decided to move from scriptogr.</description>
     </item>

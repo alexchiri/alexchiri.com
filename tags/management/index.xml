@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>management on alexchiri.com</title>
-    <link>/tags/management/</link>
+    <link>https://alexchiri.com/tags/management/</link>
     <description>Recent content in management on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Fri, 25 Jul 2014 03:30:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Joel on software, work and management</title>
-      <link>/2014/07/25/joel-on-software-work-and-management/</link>
+      <link>https://alexchiri.com/2014/07/25/joel-on-software-work-and-management/</link>
       <pubDate>Fri, 25 Jul 2014 03:30:00 +0000</pubDate>
       
-      <guid>/2014/07/25/joel-on-software-work-and-management/</guid>
-      <description>Maybe you&amp;rsquo;ve heard about Joel Spolsky, or maybe his blog domain joelonsoftware.com sounds familliar. No? Nevermind!
+      <guid>https://alexchiri.com/2014/07/25/joel-on-software-work-and-management/</guid>
+      <description>Maybe you&#39;ve heard about Joel Spolsky, or maybe his blog domain joelonsoftware.com sounds familliar. No? Nevermind!
 He seems a smart and open minded person and he managed to (co-)found quite some cool companies, which gave birth to some really cool products (Stack Exchange or Trello anyone?)
 He recently came back from his blogging retirement with an article about Trello. While I think Trello is a very good product, I was a bit more interested in the company culture reminded in his article.</description>
     </item>

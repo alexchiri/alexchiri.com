@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>javascript on alexchiri.com</title>
-    <link>/tags/javascript/</link>
+    <link>https://alexchiri.com/tags/javascript/</link>
     <description>Recent content in javascript on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2013 17:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>holder.js, a handy image placeholder generator</title>
-      <link>/2013/11/10/holder-js-a-handy-image-placeholder-generator/</link>
+      <link>https://alexchiri.com/2013/11/10/holder-js-a-handy-image-placeholder-generator/</link>
       <pubDate>Sun, 10 Nov 2013 17:00:00 +0000</pubDate>
       
-      <guid>/2013/11/10/holder-js-a-handy-image-placeholder-generator/</guid>
-      <description>Sometimes when you&amp;rsquo;re prototyping a new website or a new page, you would like to add a image placeholder, just to see how things fall into place.
+      <guid>https://alexchiri.com/2013/11/10/holder-js-a-handy-image-placeholder-generator/</guid>
+      <description>Sometimes when you&#39;re prototyping a new website or a new page, you would like to add a image placeholder, just to see how things fall into place.
 You can use a service like placehold.it or a small javascript like holder.js, which spares the extra requests to an external server, not that in development this matters much.
 For example, in order to generate the two placeholders below, you would only need to write the following HTML code:</description>
     </item>

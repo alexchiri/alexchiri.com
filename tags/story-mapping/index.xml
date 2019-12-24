@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>story-mapping on alexchiri.com</title>
-    <link>/tags/story-mapping/</link>
+    <link>https://alexchiri.com/tags/story-mapping/</link>
     <description>Recent content in story-mapping on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 28 Feb 2016 18:08:02 +0000</lastBuildDate>
     
-	<atom:link href="/tags/story-mapping/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/story-mapping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why don’t you do story mapping in your agile projects?</title>
-      <link>/2016/02/28/why-dont-you-do-story-mapping-in-your-agile-projects/</link>
+      <link>https://alexchiri.com/2016/02/28/why-dont-you-do-story-mapping-in-your-agile-projects/</link>
       <pubDate>Sun, 28 Feb 2016 18:08:02 +0000</pubDate>
       
-      <guid>/2016/02/28/why-dont-you-do-story-mapping-in-your-agile-projects/</guid>
+      <guid>https://alexchiri.com/2016/02/28/why-dont-you-do-story-mapping-in-your-agile-projects/</guid>
       <description>Story maps is a concept made popular by Jeff Patton and he started using them professionally before he even started to call them story maps. They were born from the need of having a better way of approaching complex agile projects, one that gives them a better chance to be successful.
-They&amp;rsquo;re not sliced bread But they&amp;rsquo;re really close. I&amp;rsquo;ve started using story maps a few months ago and I find them a very useful tool.</description>
+They&#39;re not sliced bread But they&#39;re really close. I&#39;ve started using story maps a few months ago and I find them a very useful tool.</description>
     </item>
     
   </channel>

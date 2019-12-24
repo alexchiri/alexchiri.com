@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>generosity on alexchiri.com</title>
-    <link>/tags/generosity/</link>
+    <link>https://alexchiri.com/tags/generosity/</link>
     <description>Recent content in generosity on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 14 Jul 2014 18:02:46 +0000</lastBuildDate>
     
-	<atom:link href="/tags/generosity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexchiri.com/tags/generosity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Selfishness</title>
-      <link>/2014/07/14/selfishness/</link>
+      <link>https://alexchiri.com/2014/07/14/selfishness/</link>
       <pubDate>Mon, 14 Jul 2014 18:02:46 +0000</pubDate>
       
-      <guid>/2014/07/14/selfishness/</guid>
+      <guid>https://alexchiri.com/2014/07/14/selfishness/</guid>
       <description>It seems that people are selfish by nature. All our instincts teach us to take care of ourselves and then of our species. If we would be reduced to our set of primal instincts, I would expect things to be quite simple. The game of life is known by everyone and the natural selection wins as always.
 Imagine that one of these primitive humans could be tamed, like any other animals, by a superior creature.</description>
     </item>
