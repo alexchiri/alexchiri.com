@@ -5,10 +5,28 @@
     <link>https://alexchiri.com/tags/</link>
     <description>Recent content in Tags on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Oct 2019 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 06:41:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alexchiri.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>books</title>
+      <link>https://alexchiri.com/tags/books/</link>
+      <pubDate>Tue, 31 Dec 2019 06:41:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading-notes</title>
+      <link>https://alexchiri.com/tags/reading-notes/</link>
+      <pubDate>Tue, 31 Dec 2019 06:41:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/tags/reading-notes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>edgar-schein</title>
@@ -178,15 +196,6 @@
       <pubDate>Mon, 09 Oct 2017 19:32:16 +0000</pubDate>
       
       <guid>https://alexchiri.com/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>books</title>
-      <link>https://alexchiri.com/tags/books/</link>
-      <pubDate>Sun, 03 Sep 2017 12:49:12 +0000</pubDate>
-      
-      <guid>https://alexchiri.com/tags/books/</guid>
       <description></description>
     </item>
     
