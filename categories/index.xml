@@ -5,10 +5,28 @@
     <link>https://alexchiri.com/categories/</link>
     <description>Recent content in Categories on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 31 Dec 2019 06:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 10:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alexchiri.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Code &amp; Tech</title>
+      <link>https://alexchiri.com/categories/code-tech/</link>
+      <pubDate>Sun, 12 Jan 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/categories/code-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://alexchiri.com/categories/writing/</link>
+      <pubDate>Sun, 12 Jan 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/categories/writing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>reading-notes</title>
@@ -97,24 +115,6 @@
       <pubDate>Sun, 15 Oct 2017 09:49:01 +0000</pubDate>
       
       <guid>https://alexchiri.com/categories/quick-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Code &amp; Tech</title>
-      <link>https://alexchiri.com/categories/code-tech/</link>
-      <pubDate>Sun, 06 Aug 2017 14:37:58 +0000</pubDate>
-      
-      <guid>https://alexchiri.com/categories/code-tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://alexchiri.com/categories/writing/</link>
-      <pubDate>Sun, 19 Jun 2016 14:41:36 +0000</pubDate>
-      
-      <guid>https://alexchiri.com/categories/writing/</guid>
       <description></description>
     </item>
     

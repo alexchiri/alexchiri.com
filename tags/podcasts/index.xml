@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcasts on alexchiri.com</title>
+    <link>https://alexchiri.com/tags/podcasts/</link>
+    <description>Recent content in podcasts on alexchiri.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Jan 2020 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alexchiri.com/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Make your own podcast transcription service</title>
+      <link>https://alexchiri.com/2020/01/12/make-your-own-podcast-transcription-service/</link>
+      <pubDate>Sun, 12 Jan 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2020/01/12/make-your-own-podcast-transcription-service/</guid>
+      <description>There are a lot of very interesting podcasts out there that I like to listen to, as much as time allows me to do so. But I noticed that I don&#39;t recall much out of them and I feel the need to go through them again. It would be great if all podcasts came with a transcript, so I can quickly revisit the parts that interest me. Unfortunately, making transcripts to your podcasts can be quite expensive, which is why most authors don&#39;t do so or put them behind a paywall.</description>
+    </item>
+    
+  </channel>
+</rss>
