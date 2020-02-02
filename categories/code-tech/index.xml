@@ -39,6 +39,98 @@ Bugs and tech debt have the nasty habit of generating urgent issues that prevent
     </item>
     
     <item>
+      <title>I added RSS</title>
+      <link>https://alexchiri.com/2016/04/18/i-added-rss/</link>
+      <pubDate>Mon, 18 Apr 2016 16:59:47 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2016/04/18/i-added-rss/</guid>
+      <description>Not much to say about this. Felt like implementing something in 1-2 hours and this seemed like a good candidate. So here it goes, I now have RSS feed, I only need readers and will to write.</description>
+    </item>
+    
+    <item>
+      <title>StackOverflow fun with ReactJS</title>
+      <link>https://alexchiri.com/2016/03/07/stackoverflow-fun-with-reactjs/</link>
+      <pubDate>Mon, 07 Mar 2016 18:28:05 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2016/03/07/stackoverflow-fun-with-reactjs/</guid>
+      <description>Inspired by Dan Abramov&amp;lsquo;s tweet and with a desire to get better at ReactJS, this weekend I became a little bit more active on StackOverflow.
+ The best way to learn a technology is to open its tag on StackOverflow and start helping people. This never failed me. 🙏
+ — Dan Abramov (@dan_abramov) March 2, 2016I answered several ReactJS questions as best as I could and I gotta tell you, it&#39;s crazy addictive.</description>
+    </item>
+    
+    <item>
+      <title>Jfokus 2016 - Day 3: Git, parallelism, JCache, reactive and Boot</title>
+      <link>https://alexchiri.com/2016/02/18/jfokus-2016-day-3-git-parallelism-jcache-reactive-and-boot/</link>
+      <pubDate>Thu, 18 Feb 2016 17:46:41 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2016/02/18/jfokus-2016-day-3-git-parallelism-jcache-reactive-and-boot/</guid>
+      <description>Sadly this was the last day of Jfokus and it was pretty cool!
+Magic tricks with Git Third day of Jfokus started brilliantly with a very cool talk about Git given by Tim Berglund of DataStax.
+ &amp;ldquo;Which of you are new to git?&amp;rdquo; Most of the room raises the hand.&amp;ldquo;Maybe you should leave!&amp;rdquo; #warmup #joke #jfokus #git pic.twitter.com/8y97ipeXu8
+ — Alexandru Chirițescu (@alexchiri) February 10, 2016Tim showed us how to do a commit without actually using the git commit command.</description>
+    </item>
+    
+    <item>
+      <title>Jfokus 2016 - Day 2: Talks, talks and some snoring</title>
+      <link>https://alexchiri.com/2016/02/10/jfokus-2016-day-2-talks-talks-and-some-snoring/</link>
+      <pubDate>Wed, 10 Feb 2016 13:37:41 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2016/02/10/jfokus-2016-day-2-talks-talks-and-some-snoring/</guid>
+      <description>Internet of things and things of Internet, Keynote I decided to try something different and so go to the IoT Keynote: IoT - an evolution from Internet of Screens to Internet of Things, done by Pawel Ostropolski from Intel. Basic gist: smart and connected devices are getting cheaper and cheaper and spread to all domains. In other words, they are becoming ubiquitous. It is now in the power of almost everyone to improve their life and the life of others by using technology.</description>
+    </item>
+    
+    <item>
+      <title>Jfokus 2016 - Day 1: Microservices and Mob programming</title>
+      <link>https://alexchiri.com/2016/02/08/jfokus-2016-day-1-microservices-and-mob-programming/</link>
+      <pubDate>Mon, 08 Feb 2016 17:00:08 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2016/02/08/jfokus-2016-day-1-microservices-and-mob-programming/</guid>
+      <description>Hello, 2016, this is the microservices calling Microservices is one of the biggest buzz words of the moment. Being a very beginner in this topic, I decided to focus mostly on it through the Jfokus conference this year.
+Chris Richardson&amp;lsquo;s tutorial, Introduction to microservices was comprehensive, taking us through the basic concepts, patterns and strategies behind them. Without going too much into details, there was lots of useful content and the presentation consists a good base to understand what are microservices about and give you several points to continue to find out more on your own.</description>
+    </item>
+    
+    <item>
+      <title>Look ma, I built my own tiny blog in ReactJS!</title>
+      <link>https://alexchiri.com/2016/02/01/look-ma-i-built-my-own-tiny-blog-in-reactjs/</link>
+      <pubDate>Mon, 01 Feb 2016 17:01:04 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2016/02/01/look-ma-i-built-my-own-tiny-blog-in-reactjs/</guid>
+      <description>When I started working almost daily with ReactJS a few months ago, I was pretty challenged (still am) with all the different modules to use and the concepts that I wasn&#39;t used with in the Java world. So I thought of a fun side-project with ReactJS to learn more and try some of the &amp;ldquo;crazy&amp;rdquo; things I couldn&#39;t really use at work at that point. Because I wanted to be able to do some link-blogging as well and Ghost (or any of the themes I liked) didn&#39;t facilitate it I decided to go wild and build my own blog in ReactJS.</description>
+    </item>
+    
+    <item>
+      <title>Rescued by Pebble</title>
+      <link>https://alexchiri.com/2015/02/24/rescued-by-pebble/</link>
+      <pubDate>Tue, 24 Feb 2015 17:59:47 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2015/02/24/rescued-by-pebble/</guid>
+      <description>I had a Pebble Steel watch for over a year now, but never took the time to put together an app or a watchface for it. Recently, I started testing RescueTime out of curiosity to see how much of my time is spent on &amp;ldquo;productive&amp;rdquo; things and how much on not so productive things.
+Not much later I found myself refreshing the RescueTime dashboard every now and then to see how much I score on their stats.</description>
+    </item>
+    
+    <item>
+      <title>Logitech Anywhere MX switch fixes, like an amateur</title>
+      <link>https://alexchiri.com/2014/11/04/logitech-anywhere-mx-switch-fixes-like-an-amateur/</link>
+      <pubDate>Tue, 04 Nov 2014 17:49:42 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2014/11/04/logitech-anywhere-mx-switch-fixes-like-an-amateur/</guid>
+      <description>If you own one of these beauties, then get ready for some switches trouble. Don&#39;t get me wrong, I &amp;lt;3 this mouse, I have two (one for work, one for home), but seriously Logitech, couldn&#39;t you put better switches in it, so they don&#39;t die after less than a year of hard use? :-/
+There are plenty of tutorials and videos about the issues with these switches and Google is your best pal there, so I won&#39;t get into details.</description>
+    </item>
+    
+    <item>
+      <title>More on the Rackspace Cloud Files action for Dropzone 3 and extras</title>
+      <link>https://alexchiri.com/2014/08/26/more-on-the-rackspace-cloud-files-action-for-dropzone-3-and-extras/</link>
+      <pubDate>Tue, 26 Aug 2014 18:33:15 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2014/08/26/more-on-the-rackspace-cloud-files-action-for-dropzone-3-and-extras/</guid>
+      <description>Not so long ago, I released my first Dropzone 3 action and of course, I wrote about it on my blog!
+After two weeks (back to the present) and some Ruby tutorials later, I improved the action and also added some more features to it.
+Features, features, fea… One feature request I got on Twitter was to add support for custom domains (or CNAME records) for the remote containers:
+— Alan Bush (@alanbush) August 13, 2014That was quite easy to do!</description>
+    </item>
+    
+    <item>
       <title>Rackspace Cloud Files action for Dropzone 3</title>
       <link>https://alexchiri.com/2014/08/12/rackspace-cloud-files-action-for-dropzone-3/</link>
       <pubDate>Tue, 12 Aug 2014 15:33:28 +0000</pubDate>
@@ -55,6 +147,101 @@ Bugs and tech debt have the nasty habit of generating urgent issues that prevent
       <guid>https://alexchiri.com/2014/03/07/joy-of-coding-2014/</guid>
       <description>Yesterday I spent the entire day at the Joy of Coding conference, in Rotterdam. From my point of view, it was an example of how a coding conference should happen. Lots of sponsors, but nobody trying to get your personal data in exchange for a t-shirt or the promise of winning some sort of gadget. Focus was put on what matters: code, networking and sharing.
 I have attended all the talks, here&#39;s a small part of what I took away from each of them:</description>
+    </item>
+    
+    <item>
+      <title>AsciiDoc writing</title>
+      <link>https://alexchiri.com/2014/02/23/asciidoc-writing/</link>
+      <pubDate>Sun, 23 Feb 2014 17:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2014/02/23/asciidoc-writing/</guid>
+      <description>Context, context, it&#39;s all about context I started a little while ago to write a book. Yeah, I know, who would have thought, right? But that&#39;s besides the point.
+Initially I used a writer specific app for Mac called Ulysses and while the app is really great, it has two disadvantages:
+ * it is available only for Mac (and maybe in the future for iOS) * not geeky enough (I know this is a stretch for a second reason, but hey!</description>
+    </item>
+    
+    <item>
+      <title>holder.js, a handy image placeholder generator</title>
+      <link>https://alexchiri.com/2013/11/10/holder-js-a-handy-image-placeholder-generator/</link>
+      <pubDate>Sun, 10 Nov 2013 17:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2013/11/10/holder-js-a-handy-image-placeholder-generator/</guid>
+      <description>Sometimes when you&#39;re prototyping a new website or a new page, you would like to add a image placeholder, just to see how things fall into place.
+You can use a service like placehold.it or a small javascript like holder.js, which spares the extra requests to an external server, not that in development this matters much.
+For example, in order to generate the two placeholders below, you would only need to write the following HTML code:</description>
+    </item>
+    
+    <item>
+      <title>Mobile publishing with Octopress and RaspberryPi</title>
+      <link>https://alexchiri.com/2013/10/20/mobile-publishing-with-octopress-and-raspberrypi/</link>
+      <pubDate>Sun, 20 Oct 2013 13:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2013/10/20/mobile-publishing-with-octopress-and-raspberrypi/</guid>
+      <description>Preamble A few weeks ago scriptogr.am decided to suddenly change how their Markdown processor worked, making any HTML embedded in the Markdown posts worthless, among other things. So I woke up that my 2-readers-blog was looking like s**t, with content not being displayed[1], all because of the changes scriptogr.am did without any warning before.
+These actions triggered some tweets to be sent, although I was already decided to move from scriptogr.</description>
+    </item>
+    
+    <item>
+      <title>Time traveling with the Java Calendar</title>
+      <link>https://alexchiri.com/2013/09/08/time-traveling-with-the-java-calendar/</link>
+      <pubDate>Sun, 08 Sep 2013 05:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2013/09/08/time-traveling-with-the-java-calendar/</guid>
+      <description>Playing with time in Java can be a tricky thing. Here&#39;s what happens when you use the Calendar class to make a trip back in time and back again:
+UPDATE: I have tested this code only with the default GregorianCalendar. You should be aware that, depending on your Locale you might get a different Calendar implementation. Although they should behave the same, consider yourself warned! :)
+Check the following code:</description>
+    </item>
+    
+    <item>
+      <title>Type erasure and some Java bytecode</title>
+      <link>https://alexchiri.com/2013/01/28/type-erasure-and-some-java-bytecode/</link>
+      <pubDate>Mon, 28 Jan 2013 05:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2013/01/28/type-erasure-and-some-java-bytecode/</guid>
+      <description>If you&#39;ve worked with Java for a while, I&#39;m sure you&#39;ve heard about one of the things that Java does at compile time: type erasure. But you don&#39;t have to trust everybody by their word, you can check it by yourself!
+As you know, when you &amp;ldquo;compile&amp;rdquo; your class, the .java file is transformed into a .class file, which is a binary file containing JVM operation codes (each operation is represented by a byte = bytecode).</description>
+    </item>
+    
+    <item>
+      <title>Bank robbers and Java concurrency</title>
+      <link>https://alexchiri.com/2013/01/14/bank-robbers-and-java-concurrency/</link>
+      <pubDate>Mon, 14 Jan 2013 05:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2013/01/14/bank-robbers-and-java-concurrency/</guid>
+      <description>Java 7 puts on the table some new tools for concurrency and its family of Executors. Here&#39;s my attempt of exemplifying their usage with a small bank robbers analogy.
+Here&#39;s the thing: let&#39;s say you are a team of bank robbers and you want to pull up a heist on a bank. A team means multiple members and each can carry so much bags of money. Let&#39;s put in code a Heist, a Bank with not enough security and using the new ForkJoinPool, let&#39;s parallelize and distribute the tasks between robbers.</description>
+    </item>
+    
+    <item>
+      <title>Farming and Dependency Injection in Java</title>
+      <link>https://alexchiri.com/2012/12/30/farming-and-dependency-injection-in-java/</link>
+      <pubDate>Sun, 30 Dec 2012 09:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2012/12/30/farming-and-dependency-injection-in-java/</guid>
+      <description>It&#39;s always good to revisit topics that you already touched before, the chance is that you will find out new things or remember forgotten ones.
+So while I go over The Well-Grounded Java Developer, I intend posting here my own examples on different topics and techniques covered there.
+Dependency Injection Today, the theme is going to be Dependency Injection. You probably know that there&#39;s a specification for this, namely JSR-330 and you surely know what Dependency Injection is (let&#39;s call it DI from now on).</description>
+    </item>
+    
+    <item>
+      <title>Markdown blogging</title>
+      <link>https://alexchiri.com/2012/12/29/markdown-blogging/</link>
+      <pubDate>Sat, 29 Dec 2012 15:11:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2012/12/29/markdown-blogging/</guid>
+      <description>Today, I switched to a static blog using Scriptogr.am and Dropbox. I thought it might be useful to share what I use to write articles on my new blog!
+Sublime Text 2 My editor of choice for everything except advanced programming is Sublime Text 2, so I am going to tell you what customizations I did for Markdown.
+First, you should install the following packages (I got inspired from this article):</description>
+    </item>
+    
+    <item>
+      <title>Gone static!</title>
+      <link>https://alexchiri.com/2012/12/29/gone-static/</link>
+      <pubDate>Sat, 29 Dec 2012 07:17:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2012/12/29/gone-static/</guid>
+      <description>Having a small blog where you can ramble about whatever you want should be a simple thing, right? I mean you don&#39;t pay much to the host, they have installation scripts for any platform you like, you just buy a domain (if you want) and you start writing! Well, that&#39;s only in theory, at least for me.
+It all started a few months ago with my domain alexchiri.ro just disappearing from the records of my host at that time, icebluehost.</description>
     </item>
     
   </channel>

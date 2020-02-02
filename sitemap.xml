@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alexchiri.com/2020/02/02/reading-notes-2/</loc>
+    <lastmod>2020-02-02T06:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alexchiri.com/</loc>
-    <lastmod>2020-01-12T10:00:00+00:00</lastmod>
+    <lastmod>2020-02-02T06:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/reading-notes/</loc>
+    <lastmod>2020-02-02T06:41:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,26 +54,6 @@
   
   <url>
     <loc>https://alexchiri.com/2019/12/31/reading-notes-1/</loc>
-    <lastmod>2019-12-31T06:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/tags/books/</loc>
-    <lastmod>2019-12-31T06:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/reading-notes/</loc>
-    <lastmod>2019-12-31T06:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/tags/reading-notes/</loc>
-    <lastmod>2019-12-31T06:41:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/categories/reading-notes/</loc>
     <lastmod>2019-12-31T06:41:00+00:00</lastmod>
   </url>
   
@@ -270,6 +260,11 @@
   <url>
     <loc>https://alexchiri.com/2017/09/22/software-development-metrics/</loc>
     <lastmod>2017-09-22T13:47:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/tags/books/</loc>
+    <lastmod>2017-09-03T12:49:12+00:00</lastmod>
   </url>
   
   <url>
@@ -540,11 +535,6 @@
   <url>
     <loc>https://alexchiri.com/2016/06/11/agile-info/</loc>
     <lastmod>2016-06-11T17:03:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/categories/code-amp-tech/</loc>
-    <lastmod>2016-04-18T16:59:47+00:00</lastmod>
   </url>
   
   <url>
