@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alexchiri.com/2020/02/02/reading-notes-2/</loc>
-    <lastmod>2020-02-02T06:41:00+00:00</lastmod>
+    <loc>https://alexchiri.com/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alexchiri.com/</loc>
+    <loc>https://alexchiri.com/blog/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/categories/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/categories/code-tech/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/tags/kubernetes/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/tags/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/2020/02/21/why-is-there-kubernetes/</loc>
+    <lastmod>2020-02-21T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alexchiri.com/2020/02/02/reading-notes-2/</loc>
     <lastmod>2020-02-02T06:41:00+00:00</lastmod>
   </url>
   
@@ -18,32 +48,12 @@
   </url>
   
   <url>
-    <loc>https://alexchiri.com/blog/</loc>
-    <lastmod>2020-01-12T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/categories/</loc>
-    <lastmod>2020-01-12T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/categories/code-tech/</loc>
-    <lastmod>2020-01-12T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://alexchiri.com/2020/01/12/make-your-own-podcast-transcription-service/</loc>
     <lastmod>2020-01-12T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://alexchiri.com/tags/podcasts/</loc>
-    <lastmod>2020-01-12T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alexchiri.com/tags/</loc>
     <lastmod>2020-01-12T10:00:00+00:00</lastmod>
   </url>
   

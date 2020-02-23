@@ -5,10 +5,20 @@
     <link>https://alexchiri.com/</link>
     <description>Recent content on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Feb 2020 06:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 10:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alexchiri.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why is (there) Kubernetes?</title>
+      <link>https://alexchiri.com/2020/02/21/why-is-there-kubernetes/</link>
+      <pubDate>Fri, 21 Feb 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2020/02/21/why-is-there-kubernetes/</guid>
+      <description>When people hear that I work with Kubernetes, a very common question is &amp;ldquo;What is Kubernetes?&amp;quot;. I found more useful to answer &amp;ldquo;Why is (there) Kubernetes?&amp;quot;, to paraphrase the original question. &amp;ldquo;Why&amp;rdquo; is easier to explain than &amp;ldquo;what&amp;rdquo; because you don&#39;t have to go too deep in the technical details and there&#39;s an added bonus of explaining the purpose of Kubernetes.
+&amp;ldquo;Remember when everyone was satisfied with developing these big monolothic services?</description>
+    </item>
     
     <item>
       <title>Alex Chiri&#39;s reading notes - issue 2, jan &#39;20</title>
