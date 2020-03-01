@@ -5,10 +5,19 @@
     <link>https://alexchiri.com/</link>
     <description>Recent content on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Feb 2020 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alexchiri.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alex Chiri&#39;s reading notes - issue 3, feb &#39;20</title>
+      <link>https://alexchiri.com/2020/03/01/reading-notes-3/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2020/03/01/reading-notes-3/</guid>
+      <description>This month in my reading seems to have been dominated by one topic: capitalism and economic growth. A topic more and more popular due to the growing separation between rich and poor and impact on the environment. Spiced it up with some spy stories, strange societies who got rid of capitalism but also free will, tricking Google Maps with a cart, happiness, innovation in business, the future and a discussion about space and science.</description>
+    </item>
     
     <item>
       <title>Why is (there) Kubernetes?</title>
