@@ -12,10 +12,10 @@
 <meta itemprop="description" content="Not so long ago, I released my first Dropzone 3 action and of course, I wrote about it on my blog!
 After two weeks (back to the present) and some Ruby tutorials later, I improved the action and also added some more features to it.
 Features, features, fea… One feature request I got on Twitter was to add support for custom domains (or CNAME records) for the remote containers:
-— Alan Bush (@alanbush) August 13, 2014That was quite easy to do!">
+[@alexchiri](https://twitter.com/alexchiri) [@aptonic](https://twitter.">
 <meta itemprop="datePublished" content="2014-08-26T18:33:15&#43;00:00" />
 <meta itemprop="dateModified" content="2014-08-26T18:33:15&#43;00:00" />
-<meta itemprop="wordCount" content="280">
+<meta itemprop="wordCount" content="332">
 
 
 
@@ -24,7 +24,7 @@ Features, features, fea… One feature request I got on Twitter was to add suppo
 <meta property="og:description" content="Not so long ago, I released my first Dropzone 3 action and of course, I wrote about it on my blog!
 After two weeks (back to the present) and some Ruby tutorials later, I improved the action and also added some more features to it.
 Features, features, fea… One feature request I got on Twitter was to add support for custom domains (or CNAME records) for the remote containers:
-— Alan Bush (@alanbush) August 13, 2014That was quite easy to do!" />
+[@alexchiri](https://twitter.com/alexchiri) [@aptonic](https://twitter." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://alexchiri.com/2014/08/26/more-on-the-rackspace-cloud-files-action-for-dropzone-3-and-extras/" />
 <meta property="article:published_time" content="2014-08-26T18:33:15+00:00" />
@@ -35,7 +35,7 @@ Features, features, fea… One feature request I got on Twitter was to add suppo
 <meta name="twitter:description" content="Not so long ago, I released my first Dropzone 3 action and of course, I wrote about it on my blog!
 After two weeks (back to the present) and some Ruby tutorials later, I improved the action and also added some more features to it.
 Features, features, fea… One feature request I got on Twitter was to add support for custom domains (or CNAME records) for the remote containers:
-— Alan Bush (@alanbush) August 13, 2014That was quite easy to do!"/>
+[@alexchiri](https://twitter.com/alexchiri) [@aptonic](https://twitter."/>
 <meta name="twitter:site" content="@alexchiri"/>
 
   
@@ -95,6 +95,13 @@ Features, features, fea… One feature request I got on Twitter was to add suppo
           
           
             <a href="/reading-notes/" class="link"><i class='fas fa-book'></i> Reading Notes</a>
+          
+        
+      
+        
+          
+          
+            <a href="/pick-my-brain/" class="link"><i class='fas fa-brain'></i> Pick my brain!</a>
           
         
       
@@ -207,12 +214,12 @@ Features, features, fea… One feature request I got on Twitter was to add suppo
 <p>After two weeks (back to the present) and some <a href="https://www.ruby-lang.org/">Ruby</a> tutorials later, I improved the action and also added some more features to it.</p>
 <h2 id="features-features-fea">Features, features, fea…</h2>
 <p>One feature request I got on <a href="https://twitter.com/alexchiri/status/499249015855521792">Twitter</a> was to add support for custom domains (or CNAME records) for the remote containers:</p>
-<!-- raw HTML omitted -->
-<p>— Alan Bush (@alanbush) <a href="https://twitter.com/alanbush/statuses/499389665846116352">August 13, 2014</a><!-- raw HTML omitted --></p>
+<blockquote>[@alexchiri](https://twitter.com/alexchiri) [@aptonic](https://twitter.com/aptonic) Just tried it out. I'm going to use this quite a bit. Now for a feature request - Specify a CNAME for the container.
+<p>— Alan Bush (@alanbush) <a href="https://twitter.com/alanbush/statuses/499389665846116352">August 13, 2014</a></blockquote></p>
 <p>That was quite easy to do! But then I thought that I needed something a bit more challenging, so I decided to attack the problem with showing progress for file uploads and also supporting large[1] files</p>
 <p>And that needed a bit more research, because the model that <a href="http://fog.io">fog</a> provides does not allow you to do these things. So I asked for some help and the answer was to use a lower level API method:</p>
-<!-- raw HTML omitted -->
-<p>— Wesley Beary (@geemus) <a href="https://twitter.com/geemus/statuses/501375108523372545">August 18, 2014</a><!-- raw HTML omitted --></p>
+<blockquote>[@alexchiri](https://twitter.com/alexchiri) Yes. I think you have to use the put_object request instead of models, but you can pass a block which should give progress.
+<p>— Wesley Beary (@geemus) <a href="https://twitter.com/geemus/statuses/501375108523372545">August 18, 2014</a></blockquote></p>
 <p>After a few iterations, I managed to get it working and got two new features for the action in one shot (almost)!</p>
 <h2 id="extras">Extras</h2>
 <p>In the meantime, encouraged by the success of the <a href="http://www.rackspace.com/cloud/files/">Rackspace Cloud Files</a> action, I started working on two other actions: one for <a href="https://slack.com/">Slack</a>, the team collaboration platform and one for <a href="https://drive.google.com">Google Drive</a>.</p>

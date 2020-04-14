@@ -463,8 +463,9 @@ There are all kind of discussions about how knowledge workers have a hard time n
       
       <guid>https://alexchiri.com/2016/03/07/stackoverflow-fun-with-reactjs/</guid>
       <description>Inspired by Dan Abramov&amp;lsquo;s tweet and with a desire to get better at ReactJS, this weekend I became a little bit more active on StackOverflow.
- The best way to learn a technology is to open its tag on StackOverflow and start helping people. This never failed me. 🙏
- — Dan Abramov (@dan_abramov) March 2, 2016I answered several ReactJS questions as best as I could and I gotta tell you, it&#39;s crazy addictive.</description>
+  The best way to learn a technology is to open its tag on StackOverflow and start helping people. This never failed me. 🙏
+ — Dan Abramov (@dan_abramov) March 2, 2016
+I answered several ReactJS questions as best as I could and I gotta tell you, it&#39;s crazy addictive.</description>
     </item>
     
     <item>
@@ -493,8 +494,7 @@ They&#39;re not sliced bread But they&#39;re really close. I&#39;ve started usin
       
       <guid>https://alexchiri.com/2016/02/20/dont-create-a-sense-of-urgency-foster-a-sense-of-purpose/</guid>
       <description>Kimber Lockhart on a sense of purpose:
-A strong sense of purpose manifests when a software engineer watches a potential customer struggle with a workflow and stays late to make the changes that make it easier. It shows itself when a designer spends their weekend on a few extra iterations because they felt engaged with the problem at hand and want to produce a better solution.
-Turns out when you stop looking to create urgency, the passion and purpose latent in your team might just cause the right things to get done at just the right pace.</description>
+A sense of purpose is immersion in our cause, and allowing that exposure to motivate action. A sense of purpose is about going faster and smarter toward a mission we all see clearly. It’s about using good judgment because we all understand the short and long term implications of our actions on what we’re creating together. A strong sense of purpose manifests when a software engineer watches a potential customer struggle with a workflow and stays late to make the changes that make it easier.</description>
     </item>
     
     <item>
@@ -505,8 +505,9 @@ Turns out when you stop looking to create urgency, the passion and purpose laten
       <guid>https://alexchiri.com/2016/02/18/jfokus-2016-day-3-git-parallelism-jcache-reactive-and-boot/</guid>
       <description>Sadly this was the last day of Jfokus and it was pretty cool!
 Magic tricks with Git Third day of Jfokus started brilliantly with a very cool talk about Git given by Tim Berglund of DataStax.
- &amp;ldquo;Which of you are new to git?&amp;rdquo; Most of the room raises the hand.&amp;ldquo;Maybe you should leave!&amp;rdquo; #warmup #joke #jfokus #git pic.twitter.com/8y97ipeXu8
- — Alexandru Chirițescu (@alexchiri) February 10, 2016Tim showed us how to do a commit without actually using the git commit command.</description>
+  &amp;ldquo;Which of you are new to git?&amp;rdquo; Most of the room raises the hand.&amp;ldquo;Maybe you should leave!&amp;rdquo; #warmup #joke #jfokus #git pic.twitter.com/8y97ipeXu8
+ — Alexandru Chirițescu (@alexchiri) February 10, 2016
+Tim showed us how to do a commit without actually using the git commit command.</description>
     </item>
     
     <item>
@@ -834,7 +835,7 @@ The trouble with all these books is that if you don&#39;t do something concrete 
       <description>Not so long ago, I released my first Dropzone 3 action and of course, I wrote about it on my blog!
 After two weeks (back to the present) and some Ruby tutorials later, I improved the action and also added some more features to it.
 Features, features, fea… One feature request I got on Twitter was to add support for custom domains (or CNAME records) for the remote containers:
-— Alan Bush (@alanbush) August 13, 2014That was quite easy to do!</description>
+[@alexchiri](https://twitter.com/alexchiri) [@aptonic](https://twitter.</description>
     </item>
     
     <item>

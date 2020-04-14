@@ -64,8 +64,9 @@ Bugs and tech debt have the nasty habit of generating urgent issues that prevent
       
       <guid>https://alexchiri.com/2016/03/07/stackoverflow-fun-with-reactjs/</guid>
       <description>Inspired by Dan Abramov&amp;lsquo;s tweet and with a desire to get better at ReactJS, this weekend I became a little bit more active on StackOverflow.
- The best way to learn a technology is to open its tag on StackOverflow and start helping people. This never failed me. 🙏
- — Dan Abramov (@dan_abramov) March 2, 2016I answered several ReactJS questions as best as I could and I gotta tell you, it&#39;s crazy addictive.</description>
+  The best way to learn a technology is to open its tag on StackOverflow and start helping people. This never failed me. 🙏
+ — Dan Abramov (@dan_abramov) March 2, 2016
+I answered several ReactJS questions as best as I could and I gotta tell you, it&#39;s crazy addictive.</description>
     </item>
     
     <item>
@@ -76,8 +77,9 @@ Bugs and tech debt have the nasty habit of generating urgent issues that prevent
       <guid>https://alexchiri.com/2016/02/18/jfokus-2016-day-3-git-parallelism-jcache-reactive-and-boot/</guid>
       <description>Sadly this was the last day of Jfokus and it was pretty cool!
 Magic tricks with Git Third day of Jfokus started brilliantly with a very cool talk about Git given by Tim Berglund of DataStax.
- &amp;ldquo;Which of you are new to git?&amp;rdquo; Most of the room raises the hand.&amp;ldquo;Maybe you should leave!&amp;rdquo; #warmup #joke #jfokus #git pic.twitter.com/8y97ipeXu8
- — Alexandru Chirițescu (@alexchiri) February 10, 2016Tim showed us how to do a commit without actually using the git commit command.</description>
+  &amp;ldquo;Which of you are new to git?&amp;rdquo; Most of the room raises the hand.&amp;ldquo;Maybe you should leave!&amp;rdquo; #warmup #joke #jfokus #git pic.twitter.com/8y97ipeXu8
+ — Alexandru Chirițescu (@alexchiri) February 10, 2016
+Tim showed us how to do a commit without actually using the git commit command.</description>
     </item>
     
     <item>
@@ -137,7 +139,7 @@ There are plenty of tutorials and videos about the issues with these switches an
       <description>Not so long ago, I released my first Dropzone 3 action and of course, I wrote about it on my blog!
 After two weeks (back to the present) and some Ruby tutorials later, I improved the action and also added some more features to it.
 Features, features, fea… One feature request I got on Twitter was to add support for custom domains (or CNAME records) for the remote containers:
-— Alan Bush (@alanbush) August 13, 2014That was quite easy to do!</description>
+[@alexchiri](https://twitter.com/alexchiri) [@aptonic](https://twitter.</description>
     </item>
     
     <item>
