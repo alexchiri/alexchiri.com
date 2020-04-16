@@ -5,10 +5,20 @@
     <link>https://alexchiri.com/</link>
     <description>Recent content on alexchiri.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Apr 2020 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 10:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alexchiri.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What and Why is (there) Kubernetes?</title>
+      <link>https://alexchiri.com/2020/04/16/what-and-why-is-there-kubernetes/</link>
+      <pubDate>Thu, 16 Apr 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://alexchiri.com/2020/04/16/what-and-why-is-there-kubernetes/</guid>
+      <description>Not long ago, I posted a small article called &amp;ldquo;Why is (there) Kubernetes?&amp;quot;. Its content inspired me to create a short presentation trying to answer the questions &amp;ldquo;What and Why is there Kubernetes?&amp;quot;. See below the recording and its summary after.
+  What and Why is there Kubernetes? What?   source: https://kubernetes.io/   In order to better understand, let&#39;s continue with a story of &amp;ldquo;Why?&amp;rdquo;  Why?  Short and simplified interpretation of the history   source: https://www.</description>
+    </item>
     
     <item>
       <title>Pick my brain!</title>
